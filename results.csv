@@ -1,0 +1,14 @@
+Model	Pearson	Spearman
+TF-IDF	0.6587586833220163	0.640837658207355
+TF-IDF Lemmatized	0.6767943027336835	0.6626584306068194
+TF-IDF Trigrams	0.7140034205412866	0.6975901757900068
+Trained Word2Vec + RandomForestRegressor	0.5247575093596499	0.4938608129421847
+Pre-trained Word2Vec + RandomForestRegressor	0.5247575093596499	0.4938608129421847
+FastText + RandomForestRegressor	0.48303976863640735	0.45083281570187206
+Universal Sentence Encoder	0.7872796991698889	0.7708598865456178
+nli-distilroberta-base-v2	0.858	0.8638
+nli-distilroberta-base-v2 + our fine-tuning	0.8646	0.8658
+stsb-distilroberta-base-v2	0.8634	0.8641
+distilroberta-base	0.8533	0.8439
+stsb-distilroberta-base	0.8851	0.8792
+stsb-roberta-large	0.917	0.9147
