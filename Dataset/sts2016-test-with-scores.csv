@@ -1,0 +1,683 @@
+STS2016.input	plagiarism	1.0	Vector space representation results in the loss of the order which the terms are in the document.	If a term occurs in the document, the value will be non-zero in the vector.
+STS2016.input	plagiarism	1.0	Inheritance in object oriented programming is a way to form new classes using classes that have already been defined.	The peropos of inheritance in object oriented programming is to minimize the reuse of existing code without modification.
+STS2016.input	plagiarism	5.0	To explain further vector space models, basically a document is characterized by a vector.	A document is represented as a vector.
+STS2016.input	plagiarism	3.0	Bayes  theorem was names after Rev Thomas Bayes and is a method used in probability theory.	As an official theorem, Bayes' theorem is valid in all universal interpretations of probability.
+STS2016.input	plagiarism	2.0	If a term appears in the document then its value in the vector is non-zero.	A document is represented as a vector and each dimension corresponds to a separate term.
+STS2016.input	plagiarism	3.0	  P(A|B) is the conditional probability of A, given B.	  P(B|A) is the conditional probability of B given A.
+STS2016.input	plagiarism	5.0	The differing application has a direct influence on what the definition of the term means.	The way that a 'term' is defined depends on the application.
+STS2016.input	plagiarism	5.0	"Thus, the ""program"" is the optimal plan of action that is being produced."	"Thus, the ""program"" is the optimal plan for action that is produced."
+STS2016.input	plagiarism	5.0	"Thus, the ""program"" is the optimal plan for action that is produced."	"Therefore, the ""program"" is the optimal plan for action that is produced."
+STS2016.input	plagiarism	4.0	One of the best known schemes is tf-idf weighting (see the example below).	One of the best known methods is called tf-idf weighting.
+STS2016.input	plagiarism	3.0	"It is ""previous"" in the sense that it does not take into account any information about B."	It does not take into account any information about B and therefore is considered  prior .
+STS2016.input	plagiarism	1.0	The algebraic model for representing text documents and objects as vectors of identifiers is called the vector space model.	A possible use for a vector space model is for retrieval and filtering of information.
+STS2016.input	plagiarism	1.0	Secondly to define the value of the optimal solution recursively.	Generalise the structure of an optimal solution 2.
+STS2016.input	plagiarism	1.0	There are two main approaches for dynamic programming.	There are four steps in Dynamic Programming: 1.
+STS2016.input	plagiarism	1.0	P(A), or the probability that the student is a girl regardless of any other information.	It is mainly used to calculate the probability of one event s outcome given that a previous event happened.
+STS2016.input	plagiarism	4.0	For instance, a events schedule at an exhibition is sometimes called a program.	For instance, a finalized schedule of events at an exhibition is sometimes called a program.
+STS2016.input	plagiarism	0.0	This can be useful when the number of times a word appears is not considered important.	One of the most important uses of page rank is its meaning to advertising.
+STS2016.input	plagiarism	4.0	Define value of optimal solution recursively.	Characterise structure of an optimal solution.
+STS2016.input	plagiarism	4.0	It was first used in the SMART Information Retrieval System.	It is used in information retrieval and was first used in the SMART Information Retrieval System.
+STS2016.input	plagiarism	1.0	In vector space model, the documents from which the information is to be retrieved are represented as vectors.	The vector space model has several disadvantages.
+STS2016.input	plagiarism	1.0	A term which occurs in the document has a value in the vector of non-zero.	The order in which the terms appear in the document is lost in the vector space representation.
+STS2016.input	plagiarism	1.0	Vector space representation results in the loss of the order which the terms are in the document.	In the vector space model a document is represented as a vector.
+STS2016.input	plagiarism	0.0	The easiest way to look at inheritance is as an  is a kind of  relationship.	An example of this gain in efficiency is a path-finding problem.
+STS2016.input	plagiarism	2.0	If a term exists in a document, its value in the vector is not equal to zero.	A document is represented as a vector, with each dimension corresponding to a separate term.
+STS2016.input	plagiarism	0.0	Vector space representation results in the loss of the order which the terms are in the document.	Since the PageRank is the most important algorithms which is used in the Google engine.
+STS2016.input	plagiarism	2.0	A document is represented as a vector, with each dimension corresponding to a separate term.	The basic idea is to represent each document as a vector of certain weighted word frequencies.
+STS2016.input	plagiarism	0.0	"Thus, the ""program"" is the optimal plan for action that is produced."	After this, it is using this to pick the best overall path.
+STS2016.input	plagiarism	2.0	A document is represented as a vector.	The vector space model are the documents which are represented as  bags of words .
+STS2016.input	plagiarism	4.0	The value of a vector is non-zero if a term occurs in the document.	A term which occurs in the document has a value in the vector of non-zero.
+STS2016.input	plagiarism	1.0	A page that is linked to by many pages with high PageRank receives a high rank itself.	A link to a page is seen as a vote of support.
+STS2016.input	plagiarism	4.0	Several different ways of computing these values, also known as (term) weights, have been developed.	Other ways of computing these values, or weights, have been developed.
+STS2016.input	plagiarism	2.0	A document is represented as a vector, with each dimension corresponding to a separate term.	The value of a vector is non-zero if a term occurs in the document.
+STS2016.input	plagiarism	5.0	P(B) (a.k.a. the normalizing constant) is the prior or marginal probability of B.	P(B) is the prior or marginal probability of B, and acts as a normalizing constant.
+STS2016.input	plagiarism	1.0	The PageRank is computed iteratively, and it is found that the PageRank values converge fairly rapidly.	The PageRank depends on the PageRank rating and number of all pages that have links to it.
+STS2016.input	plagiarism	5.0	In general, we can solve a problem with optimal substructure using a three-step process: 1.	In a word, we can solve a problem with optimal substructure using a three-step process.
+STS2016.input	plagiarism	1.0	In the vector space model a document is represented as a vector.	A possible use for a vector space model is for retrieval and filtering of information.
+STS2016.input	plagiarism	5.0	One of its uses is calculating posterior probabilities given observations.	It is usually used to calculate posterior probabilities given observations.
+STS2016.input	plagiarism	1.0	If a term appears in the document, the terms value in the vector is non-zero.	Each item in the vector represents a different keyword.
+STS2016.input	plagiarism	1.0	Finally, the order in which the terms appear in the document is lost in the vector space representation.	A term which occurs in the document has a value in the vector of non-zero.
+STS2016.input	plagiarism	4.0	Several different ways of computing these values, also known as (term) weights, have been developed.	Many different ways of calculating these values, also known as (term) weights, have been developed.
+STS2016.input	plagiarism	2.0	To derive the theorem, we begin with the definition of conditional probability.	In probability theory, the prior and conditional probabilities of two random events are related by Bayes' theorem.
+STS2016.input	plagiarism	5.0	The way that a 'term' is defined depends on the application.	The definition of term is dependent on the application.
+STS2016.input	plagiarism	5.0	Its first application was in the SMART Information Retrieval System.	It was used in the first time in the SMART Information Retrieval System.
+STS2016.input	plagiarism	0.0	"It doesn't take into account any information about B, so it is ""prior""."	However an object cannot be cast to a class which is no relative of it.
+STS2016.input	plagiarism	1.0	Following this, each web page is given a ranking of 0-10 according to its relevance to a search.	A variation of the PageRank method bases the importance of a webpage on how many visits the page gets.
+STS2016.input	plagiarism	5.0	Thus, the program is the best plan for action that is produced.	"Thus, the ""program"" is the optimal plan of action that is being produced."
+STS2016.input	plagiarism	0.0	This means that inheritance is used when types have common factors and these would be put into the superclass.	They do not have to be written in a computer language.
+STS2016.input	plagiarism	4.0	These subproblems are not, however, independent.	It is similar to divide and conquer, however is differentiated as its subproblems are not independent.
+STS2016.input	plagiarism	4.0	The key to Dynamic Programming is to find the structure of optimal solutions.	In general, dynamic programming is used on optimisation problems, where the most efficient solution is needed.
+STS2016.input	plagiarism	3.0	When a document is represented as a vector, each dimension corresponds to a separate term.	Each dimensions corresponds to a separate terms.
+STS2016.input	plagiarism	4.0	Bayes Theorem is a mathematical formula used to calculate conditional probabilities.	Bayes' theorem relates the conditional and marginal probabilities of two random events.
+STS2016.input	plagiarism	1.0	Lucky Joe likes to predict the colour of the ball he selects and he is 80% accurate.	Joe records all of his results and about 0.5% of the time he accidently records the wrong results.
+STS2016.input	plagiarism	0.0	Thus, the program is the best plan for action that is produced.	The other method is the top down approach which is a method that combines memorization and recursion.
+STS2016.input	plagiarism	5.0	It is usually used to calculate posterior probabilities given observations.	It is usually be used to compute posterior probabilities given observations.
+STS2016.input	plagiarism	5.0	The methodology takes much less time rather than naive methods.	The method takes much less time than naive methods.
+STS2016.input	plagiarism	5.0	The methodology takes much less time rather than naive methods.	This is a much quicker method than other more naive methods.
+STS2016.input	plagiarism	5.0	The definition of term is dependent on the application.	The definition of term depends on the application.
+STS2016.input	plagiarism	0.0	This means that inheritance is used when types have common factors and these would be put into the superclass.	It is similar to divide and conquer, however is differentiated as its subproblems are not independent.
+STS2016.input	plagiarism	2.0	Characterise structure of an optimal solution.	Use these optimal solutions to construct an optimal solution for the original problem.
+STS2016.input	plagiarism	3.0	The theorem is often used when we have observations and wish to compute posterior probabilities.	It is usually used to calculate posterior probabilities given observations.
+STS2016.input	plagiarism	0.0	Occasionally it is advantageous to differentiate between these uses, as it is not necessarily noticeable from context.	"It also provides a way to generalize du to the ""is a"" relationship between classes."
+STS2016.input	plagiarism	4.0	Construct an optimal solution from computed values.	Define value of optimal solution recursively.
+STS2016.input	plagiarism	0.0	Occasionally it is advantageous to differentiate between these uses, as it is not necessarily noticeable from context.	It is similar to divide and conquer, however is differentiated as its subproblems are not independent.
+STS2016.input	plagiarism	2.0	When a document is represented as a vector, each dimension corresponds to a separate term.	The basic idea is to represent each document as a vector of certain weighted word frequencies.
+STS2016.input	plagiarism	3.0	When a document is represented as a vector, each dimension corresponds to a separate term.	Each dimension corresponds to a separate term.
+STS2016.input	plagiarism	0.0	Mathematicians use the word to describe a set of rules which anyone can follow to solve a problem.	However an object cannot be cast to a class which is no relative of it.
+STS2016.input	plagiarism	5.0	Whilst Bayesians describe probabilities in terms of beliefs and degrees of uncertainty.	At the same time, Bayesians describe probabilities in terms of beliefs and degrees of uncertainty.
+STS2016.input	plagiarism	5.0	It is used in information filtering, information retrieval, indexing and relevancy rankings.	It is used in information filtering, indexing, relevancy rankings and information retrieval.
+STS2016.input	plagiarism	1.0	In probability theory, Bayes' theorem relates the conditional and marginal probabilities of two random events.	Bayes' theorem is useful in evaluating the result of drug tests.
+STS2016.input	plagiarism	1.0	Outbound, links from your page to others.	Dangling, links to a page which has no links to others.
+STS2016.input	plagiarism	1.0	Vector space representation results in the loss of the order which the terms are in the document.	In vector space model, the documents from which the information is to be retrieved are represented as vectors.
+STS2016.input	plagiarism	3.0	In computer science; dynamic programming is a way of solving problems consist of overlapping subproblems and optimal substructure.	However, the key in Dynamic Programming is to determine the structure of optimal solutions.
+STS2016.input	plagiarism	1.0	If a term appears in the document, the terms value in the vector is non-zero.	Vector space representation results in the loss of the order which the terms are in the document.
+STS2016.input	plagiarism	1.0	In vector space model, the documents from which the information is to be retrieved are represented as vectors.	Finally, the order in which the terms appear in the document is lost in the vector space representation.
+STS2016.input	plagiarism	3.0	For instance, a finalized schedule of events at an exhibition is sometimes called a program.	The typical example could be of a finalized schedule of events at an exhibition.
+STS2016.input	plagiarism	5.0	Several different ways of computing these values, also known as (term) weights, have been developed.	Several different ways of computing these values, additionally known as (term) weights, have been developed.
+STS2016.input	plagiarism	5.0	If a term exists in a document, its value in the vector is not equal to zero.	If a term appears in the document then its value in the vector is non-zero.
+STS2016.input	plagiarism	5.0	A hyperlink to a page counts as a vote of support.	A link to a page is seen as a vote of support.
+STS2016.input	plagiarism	0.0	This means that inheritance is used when types have common factors and these would be put into the superclass.	The main problem is divided into sub problems which are solved and stored for future use.
+STS2016.input	plagiarism	0.0	Most of these languages provide an  extend  keyword, which is used to subclass another.	For example, a program could exist to model different forms of transport.
+STS2016.input	plagiarism	5.0	For instance, a finalized schedule of events at an exhibition is sometimes called a program.	For example, a schedule of events at an exhibition is sometimes called a programme.
+STS2016.input	plagiarism	1.0	The value of a vector is non-zero if a term occurs in the document.	Each document is a vector where each word is a dimension.
+STS2016.input	plagiarism	4.0	The theorem is often used when we have observations and wish to compute posterior probabilities.	It is often used to calculate posterior probabilities given observations.
+STS2016.input	plagiarism	1.0	Other possible uses for vector space models are indexing and also to rank the relevancy of differing documents.	In this classic model the term specific weights in the document vectors are products of local and global parameters.
+STS2016.input	plagiarism	1.0	The correct answer can be computed using Bayes' theorem.	Bayes' theorem is useful in evaluating the result of drug tests.
+STS2016.input	plagiarism	3.0	  P(B|A) is the conditional probability of B given A.	P(A|B) is the conditional probability of A, given B.
+STS2016.input	plagiarism	3.0	Since the PageRank is the most important algorithms which is used in the Google engine.	The PageRank is a recursive algorithm used by Google to determine which webpages are more important than others.
+STS2016.input	plagiarism	5.0	Nevertheless, the patent is assigned to the University of Stanford and not to Google.	However, the patent is assigned to Stanford University and not to Google.
+STS2016.input	plagiarism	0.0	This means that inheritance is used when types have common factors and these would be put into the superclass.	It is therefore used to create relationships between one object and another.
+STS2016.input	plagiarism	3.0	In the vector space model a document is represented as a vector.	A document is represented as a vector, and each dimension corresponds to a separate term.
+STS2016.input	plagiarism	4.0	P(B) is the prior or marginal probability of B, and acts to normalise the probability.	P(B) (a.k.a. the normalizing constant) is the prior or marginal probability of B.
+STS2016.input	plagiarism	0.0	This can be useful when the number of times a word appears is not considered important.	The easiest way to look at inheritance is as an  is a kind of  relationship.
+STS2016.input	plagiarism	4.0	In probability theory, Bayes' theorem relates the conditional and marginal probabilities of two random events.	Bayes' theorem relates the conditional and marginal probabilities of two random events.
+STS2016.input	plagiarism	5.0	The definition of term depends on the application.	The definition of a term depends on the application.
+STS2016.input	plagiarism	2.0	Break up the problem different smaller subproblems.	A problem with overlapping subproblems means that the same subproblems may be used to solve many different larger problems.
+STS2016.input	plagiarism	5.0	Inheritance is a method of forming new classes using predefined classes.	Inheritance in object oriented programming is a way to form new classes using classes that have already been defined.
+STS2016.input	plagiarism	3.0	So the same rule applies with keywords and indeed longer phrases.	Single words, keywords and occasionally longer phrases are used for terms.
+STS2016.input	plagiarism	0.0	There is also Conditional Probability which is usually interested in the way variables relate to each other.	The PageRank is a recursive algorithm used by Google to determine which webpages are more important than others.
+STS2016.input	plagiarism	5.0	Thus, the program is the best plan for action that is produced.	"Thus, the ""program"" is the optimal plan for action that is produced."
+STS2016.input	plagiarism	3.0	Inheritance is a basic concept in object oriented programming.	Inheritance in object oriented programming is a way to form new classes using classes that have already been defined.
+STS2016.input	plagiarism	4.0	Programming, in this sense, means finding an acceptable plan of action.	Programming, in this sense, means finding an acceptable plan, an algorithm.
+STS2016.input	plagiarism	4.0	The vector space model has some limitations: 1.	The vector space model has several disadvantages.
+STS2016.input	plagiarism	4.0	Using the vector space model for Information Retrieval models all pages and queries as high-dimensional sparse vectors.	A possible use for a vector space model is for retrieval and filtering of information.
+STS2016.input	plagiarism	4.0	One of the most famous schemes is tf-idf weighting.	One of the best known schemes is tf-idf (term frequency-inverse document frequency) weighting.
+STS2016.input	plagiarism	3.0	A document is represented as a vector, with each dimension corresponding to a separate term.	A document has representation as a vector.
+STS2016.input	plagiarism	4.0	Vector space representation results in the loss of the order which the terms are in the document.	The order in which terms appear in the document is lost in a vector space representation.
+STS2016.input	plagiarism	2.0	P(A) is the probability of the student being a girl (which is 2/5).	What is the probability this student is a girl?
+STS2016.input	plagiarism	1.0	The basic idea is to represent each document as a vector of certain weighted word frequencies.	If a term appears in the document, the terms value in the vector is non-zero.
+STS2016.input	plagiarism	5.0	"Therefore, the ""program"" is the optimal plan for action that is produced."	"The ""program"" is the optimal plan for action that is produced."
+STS2016.input	plagiarism	2.0	This is highly used in dynamic programming.	There are four steps in Dynamic Programming: 1.
+STS2016.input	plagiarism	4.0	Other ways of computing these values, or weights, have been developed.	Many different methods of calculating these values, sometimes known as (term) weights, have been developed.
+STS2016.input	plagiarism	4.0	It is usually be used to compute posterior probabilities given observations.	It is used to compute posterior probabilities given observations.
+STS2016.input	plagiarism	3.0	In probability theory, Bayes' theorem relates the conditional and marginal probabilities of two random events.	Bayes Theorem is a mathematical formula used to calculate conditional probabilities.
+STS2016.input	plagiarism	1.0	P(B) is the prior or marginal probability of B, and acts as a normalizing constant.	P(B|A) is the conditional probability of B given A.
+STS2016.input	plagiarism	3.0	A website s page rank, is how  important  it is on the web.	A variation of the PageRank method bases the importance of a webpage on how many visits the page gets.
+STS2016.input	plagiarism	4.0	In computer science; dynamic programming is a way of solving problems consist of overlapping subproblems and optimal substructure.	Dynamic Programming is a very powerful mathematical technique, often utilised in programming, for solving optimization problems.
+STS2016.input	plagiarism	4.0	The most popular is tf-idf weighting.	One of the most famous schemes is tf-idf weighting.
+STS2016.input	plagiarism	1.0	This method is used in the Google Toolbar, which reports back actual site visits to Google.	In order to prevent spamming, Google releases little information on the way in which a PageRank is calculated.
+STS2016.input	plagiarism	0.0	To achieve this, the programmer has to note generalisations and similarities about various aspects of the program.	Mathematicians use the word to describe a set of rules which anyone can follow to solve a problem.
+STS2016.input	plagiarism	4.0	Construct an optimal solution from computed values.	The last point would be to construct an optimal solution from the computed values.
+STS2016.input	plagiarism	3.0	If the term doesn t occur within the document, the value in the vector is zero.	If a term appears in the document, the terms value in the vector is non-zero.
+STS2016.input	plagiarism	4.0	This is a much quicker method than other more naive methods.	The method takes much less time than naive methods.
+STS2016.input	plagiarism	1.0	P(B) is the prior or marginal probability of B, and acts to normalise the probability.	P(A), or the probability that the student is a girl regardless of any other information.
+STS2016.input	plagiarism	4.0	Inheritance in object oriented programming is a way to form new classes using classes that have already been defined.	inheritance in object oriented programming is where a new class is formed using classes which have allready been defined.
+STS2016.input	plagiarism	3.0	They also inherit the attributes and methods of its superclass.	The new classes are called derived classes and they inherit the behaviours and attributes of the base classes.
+STS2016.input	plagiarism	2.0	A term which occurs in the document has a value in the vector of non-zero.	A document is represented as a vector, with each dimension corresponding to a separate term.
+STS2016.input	plagiarism	5.0	If a term appears in the document, the terms value in the vector is non-zero.	A term which occurs in the document has a value in the vector of non-zero.
+STS2016.input	plagiarism	1.0	The order in which terms appear in the document is lost in a vector space representation.	In vector space model, the documents from which the information is to be retrieved are represented as vectors.
+STS2016.input	plagiarism	5.0	The vector space model has some limitations: 1.	LIMITATION: There is some limitation of vector space model.
+STS2016.input	plagiarism	4.0	However, the vector space model has limitations.	The limitations of the vector space model are thus.
+STS2016.input	plagiarism	0.0	The method can be abused when people deliberately link to sites in order to raise a site's PageRank.	Mathematicians use the word to describe a set of rules which anyone can follow to solve a problem.
+STS2016.input	plagiarism	2.0	When a document is represented as a vector, each dimension corresponds to a separate term.	To explain further vector space models, basically a document is characterized by a vector.
+STS2016.input	plagiarism	1.0	The basic idea is to represent each document as a vector of certain weighted word frequencies.	A term which occurs in the document has a value in the vector of non-zero.
+STS2016.input	plagiarism	4.0	Programming, in this sense, means finding an acceptable plan of action.	Programming means finding a plan of action.
+STS2016.input	plagiarism	0.0	Google s payoff is that it gets to track the behaviour of actual users.	After this, it is using this to pick the best overall path.
+STS2016.input	plagiarism	0.0	This means that inheritance is used when types have common factors and these would be put into the superclass.	There is also Conditional Probability which is usually interested in the way variables relate to each other.
+STS2016.input	plagiarism	3.0	Bayes  theorem was names after Rev Thomas Bayes and is a method used in probability theory.	As a formal theorem Bayes theorem is valid in all common interpretations of probability.
+STS2016.input	plagiarism	4.0	Dynamic Programming solves problems by combining the solutions of subproblems.	The key to Dynamic Programming is to find the structure of optimal solutions.
+STS2016.input	plagiarism	2.0	Terms are basically the words or any indexing unit used to identify the contents of a text.	In this classic model the term specific weights in the document vectors are products of local and global parameters.
+STS2016.input	plagiarism	2.0	The vector space model are the documents which are represented as  bags of words .	In vector space model, the documents from which the information is to be retrieved are represented as vectors.
+STS2016.input	plagiarism	0.0	"Thus, the ""program"" is the optimal plan of action that is being produced."	The easiest way to look at inheritance is as an  is a kind of  relationship.
+STS2016.input	plagiarism	0.0	To achieve this, the programmer has to note generalisations and similarities about various aspects of the program.	The advantage being the less time consumption in comparison to other amateur methods.
+STS2016.input	plagiarism	4.0	Subclasses are said to extend or specialise their superclasses.	Subclasses are said to  extend  superclasses.
+STS2016.input	plagiarism	3.0	It is also called the posterior probability because it is derived from or depends upon the specified value of B.	It is also called the subsequent probability because it is derived from or depends upon the specified value of B.
+STS2016.input	plagiarism	0.0	This can be useful when the number of times a word appears is not considered important.	It is mainly used to calculate the probability of one event s outcome given that a previous event happened.
+STS2016.input	plagiarism	1.0	Java allows object inheritance.	Inheritance is one of the basic concepts of Object Oriented Programming.
+STS2016.input	plagiarism	0.0	Mathematicians use the word to describe a set of rules which anyone can follow to solve a problem.	Instead, a new object is made to inherit properties of objects which already exist.
+STS2016.input	plagiarism	1.0	Virtual attributes and methods can be shadowed/overridden.	In Java all attributes and methods are implicitly virtual.
+STS2016.input	plagiarism	3.0	One of the best known schemes is tf-idf weighting, proposed by Salton, Wong and Yang.	tf-idf weighting is one of the most well known schemes.
+STS2016.input	plagiarism	1.0	In the vector space model a document is represented as a vector.	The vector space model are the documents which are represented as  bags of words .
+STS2016.input	plagiarism	3.0	The vector space model has the following limitations: 1.	LIMITATION: There is some limitation of vector space model.
+STS2016.input	plagiarism	3.0	It is intended to help reuse existing code with little or no modification.	The idea of inheritance is to reuse the existing code with little or no modification at all.
+STS2016.input	plagiarism	4.0	It is often used to compute posterior probabilities given observations.	The theorem is often used when we have observations and wish to compute posterior probabilities.
+STS2016.input	plagiarism	2.0	When any sub-problem is met again, it can be found and re-used to solve another problem.	It was intended to allow existing code to be used again with minimal or no alteration.
+STS2016.input	plagiarism	1.0	The peropos of inheritance in object oriented programming is to minimize the reuse of existing code without modification.	In object oriented programming inheritance is also dependant on access level modifiers.
+STS2016.input	plagiarism	4.0	Every dimension is precisely related to a separate term.	Each and every dimension corresponds to a separate term.
+STS2016.input	plagiarism	0.0	The other method is the top down approach which is a method that combines memorization and recursion.	The easiest way to look at inheritance is as an  is a kind of  relationship.
+STS2016.input	plagiarism	0.0	P(A), or the probability that the student is a girl regardless of any other information.	Later versions of PageRank (see the below formulas) would assume a probability distribution between 0 and 1.
+STS2016.input	plagiarism	1.0	When a document is represented as a vector, each dimension corresponds to a separate term.	The value of a vector is non-zero if a term occurs in the document.
+STS2016.input	plagiarism	0.0	To achieve this, the programmer has to note generalisations and similarities about various aspects of the program.	Terms are basically the words or any indexing unit used to identify the contents of a text.
+STS2016.input	plagiarism	2.0	The vector space model are the documents which are represented as  bags of words .	The limitations of the vector space model are thus.
+STS2016.input	plagiarism	1.0	The vector space model is one of these methods, and it is an algebraic model.	In vector space model, the documents from which the information is to be retrieved are represented as vectors.
+STS2016.input	plagiarism	5.0	The vector space model has the following limitations: 1.	The vector space model has some limitations: 1.
+STS2016.input	plagiarism	0.0	However an object cannot be cast to a class which is no relative of it.	Here by meaning that a program can be an optimal plan for the produced action.
+STS2016.input	plagiarism	3.0	The vector is then constucted of the frequency of eacher word (dimension).	The basic idea is to represent each document as a vector of certain weighted word frequencies.
+STS2016.input	plagiarism	5.0	Typically terms are single words, keywords, or longer phrases.	Typically terms are keywords, single words or longer phrases.
+STS2016.input	plagiarism	5.0	It does not take into account any information about B and therefore is considered  prior .	"It doesn't take into account any information about B, so it is ""prior""."
+STS2016.input	plagiarism	3.0	The PageRank depends on the PageRank rating and number of all pages that have links to it.	of a particular page is roughly based upon the quantity of inbound links as well as the PageRank?
+STS2016.input	plagiarism	4.0	Construct an optimal solution from computed values.	Use these optimal solutions to construct an optimal solution for the original problem.
+STS2016.input	plagiarism	3.0	Single words, keywords and occasionally longer phrases are used for terms.	The number of unique words in the vocabulary denotes the dimensionality, if words are used for the terms.
+STS2016.input	plagiarism	1.0	The vector space model has several disadvantages.	A document has representation as a vector.
+STS2016.input	plagiarism	4.0	Every dimension is precisely related to a separate term.	A document is represented as a vector, with each dimension corresponding to a separate term.
+STS2016.input	plagiarism	0.0	This means that inheritance is used when types have common factors and these would be put into the superclass.	Occasionally it is advantageous to differentiate between these uses, as it is not necessarily noticeable from context.
+STS2016.input	plagiarism	2.0	This is highly used in dynamic programming.	The key to Dynamic Programming is to find the structure of optimal solutions.
+STS2016.input	plagiarism	3.0	The idea of inheritance is to reuse the existing code with little or no modification at all.	The idea of inheritance in OOP refers to the formation of new classes with the already existing classes.
+STS2016.input	plagiarism	1.0	The peropos of inheritance in object oriented programming is to minimize the reuse of existing code without modification.	However, the key in Dynamic Programming is to determine the structure of optimal solutions.
+STS2016.input	plagiarism	5.0	A document is represented as a vector and each dimension corresponds to a separate term.	When a document is represented as a vector, each dimension corresponds to a separate term.
+STS2016.input	plagiarism	3.0	It is valid in all common interpretations of probability.	As an official theorem, Bayes' theorem is valid in all universal interpretations of probability.
+STS2016.input	plagiarism	1.0	The order in which the terms appear in the document is lost in the vector space representation.	If the term doesn t occur within the document, the value in the vector is zero.
+STS2016.input	plagiarism	5.0	Since it is a formal theorem, Bayes' theorem holds in all popular interpretations of probability.	As a formal theorem, Bayes' theorem is valid in all common interpretations of probability.
+STS2016.input	plagiarism	5.0	The methodology takes much less time rather than naive methods.	The method is more effiecent than naive methods.
+STS2016.input	plagiarism	4.0	The most popular is tf-idf weighting.	One of the best known schemes is tf-idf (term frequency-inverse document frequency) weighting.
+STS2016.input	plagiarism	0.0	This means that inheritance is used when types have common factors and these would be put into the superclass.	This can be useful when the number of times a word appears is not considered important.
+STS2016.input	plagiarism	3.0	The value of a vector is non-zero if a term occurs in the document.	If the term doesn t occur within the document, the value in the vector is zero.
+STS2016.input	plagiarism	1.0	The value of a vector is non-zero if a term occurs in the document.	The order in which the terms appear in the document is lost in the vector space representation.
+STS2016.input	plagiarism	0.0	The way that a 'term' is defined depends on the application.	The easiest way to look at inheritance is as an  is a kind of  relationship.
+STS2016.input	plagiarism	1.0	The similarity measures largely identify the retrieval efficiency of a particular information retrieval system.	It is used in information retrieval and was first used in the SMART Information Retrieval System.
+STS2016.input	plagiarism	5.0	Typically terms are keywords, single words or longer phrases.	Single words, keywords and occasionally longer phrases are used for terms.
+STS2016.input	plagiarism	1.0	The vector space model is one of these methods, and it is an algebraic model.	The vector space model has the following limitations: 1.
+STS2016.input	plagiarism	0.0	"Therefore, the ""program"" is the optimal plan for action that is produced."	Since the PageRank is the most important algorithms which is used in the Google engine.
+STS2016.input	plagiarism	1.0	  P(A|B) is the conditional probability of A, given B.	P(B) (a.k.a. the normalizing constant) is the prior or marginal probability of B.
+STS2016.input	plagiarism	5.0	Construct an optimal solution from computed values.	Generate the optimal solution of these computed values
+STS2016.input	plagiarism	4.0	The theorem is often used when we have observations and wish to compute posterior probabilities.	It is usually be used to compute posterior probabilities given observations.
+STS2016.input	plagiarism	1.0	Generalise the structure of an optimal solution 2.	Use these optimal solutions to construct an optimal solution for the original problem.
+STS2016.input	plagiarism	1.0	The vector space model is one of these methods, and it is an algebraic model.	The vector space model has several disadvantages.
+STS2016.input	plagiarism	1.0	If the term doesn t occur within the document, the value in the vector is zero.	Finally, the order in which the terms appear in the document is lost in the vector space representation.
+STS2016.input	plagiarism	3.0	When a document is represented as a vector, each dimension corresponds to a separate term.	In the vector space model a document is represented as a vector.
+STS2016.input	plagiarism	4.0	Overlapping subproblems means that the same subproblems are used to solve many different larger problems.	A problem with overlapping subproblems means that the same subproblems may be used to solve many different larger problems.
+STS2016.input	plagiarism	2.0	The differing application has a direct influence on what the definition of the term means.	Terms are basically the words or any indexing unit used to identify the contents of a text.
+STS2016.input	plagiarism	4.0	The differing application has a direct influence on what the definition of the term means.	The definition of term is dependent on the application.
+STS2016.input	plagiarism	3.0	Inheritance is an important feature in object orientated programming.	The peropos of inheritance in object oriented programming is to minimize the reuse of existing code without modification.
+STS2016.input	plagiarism	1.0	In probability theory, the prior and conditional probabilities of two random events are related by Bayes' theorem.	Bayes' Theorem is a theorem of probability theory originally stated by the Reverend Thomas Bayes.
+STS2016.input	plagiarism	0.0	Without a proof of correctness, such an algorithm is likely to fail.	However an object cannot be cast to a class which is no relative of it.
+STS2016.input	plagiarism	3.0	So in essence it is a popularity contest between WebPages.	It is essentially a popularity meter.
+STS2016.input	plagiarism	5.0	Several different ways of computing these values, additionally known as (term) weights, have been developed.	Several different ways have been developed of calculating these values (also known as term weights).
+STS2016.input	plagiarism	0.0	The other method is the top down approach which is a method that combines memorization and recursion.	Since the PageRank is the most important algorithms which is used in the Google engine.
+STS2016.input	plagiarism	1.0	The order in which terms appear in the document is lost in a vector space representation.	If a term occurs in the document, the value will be non-zero in the vector.
+STS2016.input	plagiarism	4.0	The method takes much less time than naive methods.	And thus the method takes much less time than more naive methods.
+STS2016.input	plagiarism	1.0	Inheritance is one of the basic concepts of Object Oriented Programming.	In object oriented programming inheritance is also dependant on access level modifiers.
+STS2016.input	plagiarism	2.0	As a formal theorem, Bayes' theorem is valid in all common interpretations of probability.	Bayes theorem can be used to compute the probability that a proposed diagnosis is correct.
+STS2016.input	plagiarism	0.0	Thus, the program is the best plan for action that is produced.	After this, it is using this to pick the best overall path.
+STS2016.input	plagiarism	3.0	The basic idea is to represent each document as a vector of certain weighted word frequencies.	In the vector space model a document is represented as a vector.
+STS2016.input	plagiarism	3.0	Object oriented programming is a style of programming that supports encapsulation, inheritance, and polymorphism.	Inheritance is a basic concept in object oriented programming.
+STS2016.input	plagiarism	3.0	The vector space model has some limitations: 1.	The limitations of the vector space model are thus.
+STS2016.input	plagiarism	2.0	It is mainly used to calculate the probability of one event s outcome given that a previous event happened.	It is also called the posterior probability because it is derived from or depends upon the specified value of B.
+STS2016.input	plagiarism	3.0	The theorem is often used when we have observations and wish to compute posterior probabilities.	Bayes theorem can be used to compute the probability that a proposed diagnosis is correct.
+STS2016.input	plagiarism	0.0	This can be useful when the number of times a word appears is not considered important.	It has no relationship to computer programming; instead it is a process of finding a satisfactory algorithm.
+STS2016.input	plagiarism	4.0	In probability theory, Bayes' theorem relates the conditional and marginal probabilities of two random events.	In probability theory, the prior and conditional probabilities of two random events are related by Bayes' theorem.
+STS2016.input	plagiarism	3.0	One of the best known schemes is tf-idf weighting (see the example below).	One of the best known schemes is tf-idf weighting, proposed by Salton, Wong and Yang.
+STS2016.input	plagiarism	3.0	It is therefore used to create relationships between one object and another.	"It also provides a way to generalize du to the ""is a"" relationship between classes."
+STS2016.input	plagiarism	0.0	Then, using this, the best overall path can be found, thereby demonstrating the dynamic programming principle.	The further down an inheritance tree you get, the more specific the classes become.
+STS2016.input	plagiarism	3.0	When a document is represented as a vector, each dimension corresponds to a separate term.	A document has representation as a vector.
+STS2016.input	plagiarism	0.0	To achieve this, the programmer has to note generalisations and similarities about various aspects of the program.	It is similar to divide and conquer, however is differentiated as its subproblems are not independent.
+STS2016.input	plagiarism	0.0	The further down an inheritance tree you get, the more specific the classes become.	The differing application has a direct influence on what the definition of the term means.
+STS2016.input	plagiarism	2.0	The algebraic model for representing text documents and objects as vectors of identifiers is called the vector space model.	The limitations of the vector space model are thus.
+STS2016.input	plagiarism	5.0	In general, dynamic programming is used on optimisation problems, where the most efficient solution is needed.	However, the key in Dynamic Programming is to determine the structure of optimal solutions.
+STS2016.input	plagiarism	2.0	It is used in information filtering, information retrieval, indexing and relevancy rankings.	A possible use for a vector space model is for retrieval and filtering of information.
+STS2016.input	plagiarism	0.0	The easiest way to look at inheritance is as an  is a kind of  relationship.	"It also provides a way to generalize du to the ""is a"" relationship between classes."
+STS2016.input	plagiarism	0.0	This means that inheritance is used when types have common factors and these would be put into the superclass.	"It is ""prior"" in the sense that it does not take into account any information about B."
+STS2016.input	plagiarism	0.0	This means that inheritance is used when types have common factors and these would be put into the superclass.	The method can be abused when people deliberately link to sites in order to raise a site's PageRank.
+STS2016.input	postediting	3.0	"""It would be a mistake to underestimate her."	"""It would be a mistake to the underestimate."
+STS2016.input	postediting	0.0	The choice of operators is unfortunately miserable and is limited, in most cases, to radio tubes.	The answer is simple, there is a lack of competition.
+STS2016.input	postediting	5.0	The fact that Google is a base for genetic data can give a good raw material for the next generation of science-fiction. The famous novel by Cory Doctorow, writes with half orwellien tones , describing the future in which a man could be approached only through data from Google.	The fact that Google is a genetic data can give a good raw material for the next generation of science-fiction. The novel Cory Doctorow of the famous, writing with half-tone orwelliens, described the future in which a man could be approached so outrageous only through data from Google.
+STS2016.input	postediting	2.0	And perhaps we will cease to call ourselves more expensive than the rest of Europe.	And perhaps we continue to call more expensive than in the rest of Europe.
+STS2016.input	postediting	3.0	"For nearly 18 years, the space borehole ""Ulysses"" steals in the area."	"For nearly 18 years, the space shuttle ""Ulysses"" has been flying in space."
+STS2016.input	postediting	5.0	The foundation Es ly Budapest rt Alap tv ny, at the request of the grouping of Fiatal Baloldal - Ifj  Szocialist k, has established a bill on the order of the Foundation has Harmadik Egy tt  vezred rt, for a total of four million HUF.	The foundation Es ly Budapest rt Alap tv ny, at the request of the grouping of Fiatal Baloldal - Ifj  Szocialist k, made a bill on the order of the foundation Egy tt a Harmadik  vezred rt, for a total of four million HUF.
+STS2016.input	postediting	4.0	With the collapse of the investment bank Lehman Brothers two weeks ago, the allocation of appropriations between banks has again expressed constant significantly, the banks that have accumulated their liquidity.	With the collapse of the investment bank Lehman Brothers two weeks ago, the allocation of appropriations between banks has again been delayed significantly, the banks having accumulated their liquidity.
+STS2016.input	postediting	2.0	It is true, I look forward to leave.	It is true, I look forward to their release.
+STS2016.input	postediting	2.0	Reni rent legislators and supports the call to the project of President George Bush.	The US President George Bush himself is glad of progress in the negotiations.
+STS2016.input	postediting	1.0	Moreover, if right side of Naomi fascinates me.	"""Because it fascinates me,"""
+STS2016.input	postediting	2.0	The interview - blood become sure again	The interview, Du blood become course
+STS2016.input	postediting	5.0	"We must be constantly vigilant "", continued Dre D cary before stressing that on top of security of supply, H ma-Quebec must also provide an adequate supply."	"We must be constantly vigilant "", continuing the Dre D cary before stress that security of supply, H ma-Quebec must also provide an adequate supply."
+STS2016.input	postediting	3.0	This isn't necessarily bad, but if they do move you it would be better if they gave you everything (including the electronic chips for the race)	This is not wrong but if they do you move that would be better if they give you any (including the electronic chip shop).
+STS2016.input	postediting	4.0	The Marcel differs from others by his excellent cotton, by his unisex look, with his distinctive logo and by the Belgian flag (barely recognisable) that the most well-known jerseys have on the neck.	The Marcel 's differs from the other by his cotton excellent, by his thumb unisexe, with its distinctive logo and by the Belgian flag (barely recognisable) that the shirts of bodies have the most well-known in the neck.
+STS2016.input	postediting	3.0	"All depends on it, ""he says."	"All lies with it, ""he says."
+STS2016.input	postediting	5.0	The installation in all the institutions of the Presidency of the Council is now complete with the Palais Chigi.	The installation in all the institutions of the Presidency of the Council is complete with the Palais Chigi.
+STS2016.input	postediting	1.0	It was the biggest loss of points in the space of a day in history.	At the same time, in Europe, we had further proof of the global nature of the crisis.
+STS2016.input	postediting	1.0	We have already led the negotiations about that possibility several times with all the Czech mobile operators.	The problem is that the commercial state of all Czech mobile operators prohibits such a resale.
+STS2016.input	postediting	2.0	But given the attitude of mobile operators that are, the indifference of the Czech regulators is disconcerting.	On the contrary, the mobile operators like to complain that the Czech market is extremely competetive.
+STS2016.input	postediting	3.0	The sexes have imposed a ban on Glitter six months after he had spoken to the authorities who have under control, its intention to go to Spain from France.	The magistrates have imposed a ban of six months on Glitter after he had spoken to the authorities who had him under control, of his intention to go to Spain via France.
+STS2016.input	postediting	1.0	They say so much about it, I do know, many things are not true.	But I do not know how to prove it.
+STS2016.input	postediting	1.0	The sum, however, must not be paid at once, but in installments.	In 2010, it will be necessary to pay the interests of the whole year, which may double.
+STS2016.input	postediting	5.0	The symptoms of hepatitis A appear two to three weeks after the consumption of food contaminated, in general, accompanied by a bad state general, of weakness, upset stomach and nausea.	The symptoms of hepatitis A appear two to three weeks after the consumption of contaminated food, in general, accompanied by general bad health, weakness, upset stomach and nausea.
+STS2016.input	postediting	5.0	"This sentence was spoken by the actress Sally Field, who has worked with him in 'Absence of Malice "", and illustrates the despair of American cinema, and America in general, faced with the striking idea that Newman is no longer in the world."	"This sentence is the actress Sally field, who has worked with him in 'absence of malice "", and illustrates the despair of American cinema, and America, faced with the idea striking that Newman is no longer in the world."
+STS2016.input	postediting	4.0	The project of the motorway happened just when the girl the most famous of Eatonville had recovered its appeal.	The project of the motorway happened just when the most famous girl of Eatonville had recovered her appeal.
+STS2016.input	postediting	3.0	With a few exceptions, the street has always the same look.	Has few exceptions, the street has always the same pace.
+STS2016.input	postediting	2.0	This is what we think will bring in more customers.	This is what we think is the most contributions from the point of view of customers.
+STS2016.input	postediting	3.0	With this film Garci does not expect to win any prizes.	With this film Garci does not expect a price.
+STS2016.input	postediting	5.0	What good to facilitate the advent of such a competitor?	What good then to facilitate the advent of such a competitor?
+STS2016.input	postediting	2.0	Soccer - The Impact in the semi-finals	The impact will be measured in Vancouver Whitecaps in the semi-finals.
+STS2016.input	postediting	5.0	This amount would be twice that produce nuclear power plants.	This amount would be twice that produced by nuclear power plants.
+STS2016.input	postediting	2.0	"The phrase 'You do not consider ""is enshrined in majuscules on the registration plate."	"The phrase ""You do not think"" is inscribed in capital letters on the registration plate."
+STS2016.input	postediting	3.0	On the opposite side, Antonio Damasio for example believes that the sensations resultant from primitive activities are born in the areas of the corporeal feeling of the cortex and the core of the brain, like Jaak Pankseep who focuses more on the just the core of the brain.	The opposite, Antonio Damasio for example believe that the sensations from primitive activities are born in the areas of the body feeling of the cortex and core of the brain, like Jaak Pankseep however, which focuses more on the brain syllabus.
+STS2016.input	postediting	4.0	On the screen of the machine they will find all the information about the validity of their document.	That is, on the screen of the apparatus, that will show the information about the validity of their document.
+STS2016.input	postediting	3.0	The total immersion in the English language focusses on the almost constant use of English in teaching.	The dumping total in English focusing on the use almost constant of English in the investigation.
+STS2016.input	postediting	5.0	The photo present in this article, was taken earlier this month in one of the rooms of rest reserved for employees to Microsoft's Redmond.	The photo in this article, was taken earlier this month in one of the rooms reserved for employees of Microsoft at Redmond.
+STS2016.input	postediting	2.0	The most prestigious prize in fashion	The price the most prestigious fashion
+STS2016.input	postediting	4.0	Today we are starting, in March we end, in June we will make the sums.	Today we are starting in March we end, in June we learn the sums.
+STS2016.input	postediting	0.0	Who can most can say the least.	Not many.
+STS2016.input	postediting	5.0	The opposition does not provide for actions of protests in view of the results. It is trying rather to get its message on the need for economic reforms to the voters.	The opposition does not provide for actions of protests in view of the results. It is trying rather to get his message on the need for economic reforms to the voters.
+STS2016.input	postediting	0.0	Step towards	Not in sight
+STS2016.input	postediting	5.0	The eye of the bee plays an important role, since it is able to see in all directions, in an angle of 300 degrees.	The eye to aspects of the bee plays an important role, since it is able to see in all directions, in a 300 degrees.
+STS2016.input	postediting	3.0	Will it be a birthday without a genuine party.	Will it be a birthday party without genuine.
+STS2016.input	postediting	4.0	There are no precise figures: we are talking about 50 000 people who make their way through the Alps and drown themselves in tankards of beer.10 percent of visitors would have specially come from Italy this weekend.	There is no precise figures; we talk about 50 000 who are under way through the Alps and collapse in the newsstand to beer, 10 percent of visitors would express come to Italy this weekend.
+STS2016.input	postediting	1.0	"Paul Newman was one of them. """	Paul Newman the magnificent
+STS2016.input	postediting	0.0	However, I do not think so.	But I do not know how to prove it.
+STS2016.input	postediting	0.0	"""Yes, we have a serious problem."	"""We have made great progress."
+STS2016.input	postediting	5.0	The electronic vouchers are valid from tomorrow not only in the capital, but also in the surrounding area of the city.	The electronic vouchers are valid from tomorrow not only in the capital, but also in the surrounding areas of the city.
+STS2016.input	postediting	1.0	Be careful of grapefruit, orange and apple juice.	Attention to the fungus orange juice, and bone.
+STS2016.input	postediting	2.0	Or heels of trial of clothes.	Or heels of transgressing or clothes.
+STS2016.input	postediting	1.0	They have not been that according to the opposition.	If Members of the opposition are in parliament it is because they have been appointed, not elected.
+STS2016.input	postediting	3.0	For them, they are books - bills the market to J zsefv ros, while fabriquaient stamps to Kiskunhalas.	For these they obtained invoice books from the market at J zsefv ros, while the manufactured stamps at Kiskunhalas.
+STS2016.input	postediting	5.0	The total amount of aid to the system should be divided into two parts.	The total amount to the aid of the system should be divided into two parts.
+STS2016.input	postediting	3.0	To ensure that no one would know, five fictitious bills received from the society Works Team Kft. were presented to the TMA.	To ensure that it does not know, five bills fictitious received of society Works Team Kft. have been presented to the MRI.
+STS2016.input	postediting	1.0	The legislators thus refused to support President George Bush's call to the project.	Reni rent legislators and supports the call to the project of President George Bush.
+STS2016.input	postediting	5.0	The process must happen in the blink of an eye.	The process must be held in a heartbeat.
+STS2016.input	postediting	5.0	With a goal and simple methods, SV Hamburg reaches top of the league table.	With a goal and simple methods, the SV Hamburg becomes first of the league.
+STS2016.input	postediting	4.0	The stars of the flamenco like Diego El Cigala, Chano Lobato, Cristina Hoyos, Enrique Morente, El Lebrijano, Antonio Canales, Vicente Amigo, among others, are part of the selection made from around seventy artists photographed.	The stars of the intoxicating spirit of flamenco as Diego El Cigala, Chano Lobato, Cristina Hoyos, Enrique Morente, El Lebrijano, Antonio Canales, Vicente Amigo, among others, are part of the selection made from around seventy artists photographed.
+STS2016.input	postediting	3.0	No, sir I am Spanish but I have lived here two years.	No, not Mr, I am Spanish but I have lived here thinking two years.
+STS2016.input	postediting	1.0	So many other Paul Newman have gone to history.	"Paul Newman was part of that. """
+STS2016.input	postediting	0.0	It seems to be clear that it is better to buy a phone.	It is difficult to say, if such a concept would be likely to work at home.
+STS2016.input	postediting	4.0	You trouves in front of people, of characters that sometimes you do not know or are you just a few minutes to make them a photograph.	You find yourself in front of people, of characters that sometimes you do not know or give you just a few minutes to photograph them.
+STS2016.input	postediting	5.0	"There was nothing left but to collect the hostages"", when suddenly, ""this surprise"" occurred."	"There is nothing left to collect the hostages', when suddenly, ""this surprise"" occurred."
+STS2016.input	postediting	4.0	The trial subjects have spent half an hour in an MRI scan, meanwhile, have received 20 shock in four part to post, while watching the paint religious issue, is the one to issue more general.	The subjects spent half an hour in an MRI scanner, during which they received 20 shocks in four part installments, while watching either the religious painting, or the more general one.
+STS2016.input	postediting	0.0	"""People were always happy to see Zora"" he said."	"""I am so happy,"" he said to reporters."
+STS2016.input	postediting	0.0	It is difficult to say, if such a concept would be likely to walk at home.	For me, it was clear that I had to be travel a day.
+STS2016.input	postediting	4.0	"The witness said that at 4.30 p.m., Locklear ""based on substance on the accelerator, doing a lot of noise, trying to get out of the car garage, and going backwards several times, she roula on his sunglasses""."	"The witness said that at 4.30 p.m., Locklear ""pushed hard on accelerator, doing a lot of noise, trying to back out of the garage, and going backwards several times; she was driving with her sunglasses""."
+STS2016.input	postediting	3.0	"Abuse of a father-"" which led to suicide """	"Abuse of a step-father-"" which led to suicide """
+STS2016.input	postediting	3.0	The shame, Mr Toews, is in this renouncing, and not elsewhere.	Shame, Mr Toews, it is, in this instance, and not elsewhere.
+STS2016.input	postediting	4.0	This case is one of the many accusations that her.	This is one of the many accusations against her.
+STS2016.input	postediting	5.0	The interests of 2009 cover seven months, from the end of September this year till the end of March.	The interests of 2009 cover seven months to the end of September this year until the end of March.
+STS2016.input	postediting	0.0	To imitate the functions of the eye, engineers have put forth the idea of a laser rangefinder.	Portraits of which, thanks to the choice of the camera and equipment, given the photograph classic.
+STS2016.input	postediting	5.0	UNIPOL: Court ROME, DANILO COPPOLA remains A GROTTAFERRATA.	UNIPOL: Court ROME, DANILO COPPOLA remains in GROTTAFERRATA.
+STS2016.input	postediting	5.0	This whole process must reflect what the bee does to avoid other bees.	This whole process must reflect what the bee done to avoid the other bees.
+STS2016.input	postediting	5.0	They are, indeed, free of the relatively high costs of construction, operation and maintenance the mobile network.	They are, indeed, free of the costs of construction, operation and maintains the mobile network, relatively high.
+STS2016.input	postediting	2.0	When the agreement was announced, one would have thought a truly revolutionary step.	When the agreement was announced, a true not revolutionary.
+STS2016.input	postediting	3.0	When we will not be the most expensive	When we will no longer be the most expensive country
+STS2016.input	postediting	3.0	"""I wanted to re-commemorate her because I think it is these women who have had an enormous influence in their time and now no one knows and highlights their work,"" says Bay n."	"""I wanted to the back because I think it is these women who have an enormous influence in their time and now no one knows and highlights his work,"" says Bay n."
+STS2016.input	postediting	2.0	They say so much about he, I know, many things are not true.	However, I do not think so.
+STS2016.input	postediting	3.0	Generosity, love of life were vibrants features of the actor.	Generosity, love of life are vibrants features of the actor disappeared.
+STS2016.input	postediting	0.0	Then, when I became a dancer, I was trying to take care of my way to pay.	For me, it was clear that I had to be travel a day.
+STS2016.input	postediting	0.0	Then, when I became a dancer, I was trying to take care of my way to pay.	"""However, once I have the impression that this is a job at risk, I supprimerai."
+STS2016.input	postediting	1.0	The intelligent car imitates the flight of a bumblebee	The intelligent car theft of bourdon emulating
+STS2016.input	postediting	5.0	The development of Orlando has already pushed Interstate 4 up to the west of the city.	The development of Orlando has already prompted Interstate 4 up to the west of the city.
+STS2016.input	postediting	1.0	Microsoft is right, its operational system is important but also its software.	Microsoft is right, its operational system is losing importance but also its software.
+STS2016.input	postediting	2.0	Sarkozy at the meeting of fishermen angry	Nicolas Sarkozy is expected to the ground by fishermen.
+STS2016.input	postediting	4.0	The collar workers continue to queue to buy their sandwich matinier merchants to happen, and it is impossible to find a taxi between 16h and 19h in the week.	The office workers continue to queue to buy their morning sandwich from mobile stalls, and it is impossible to find a taxi between 16h and 19h during the week.
+STS2016.input	postediting	2.0	We can, of course, make music directly on the map memory, but little card readers know go without reduction, given the dimensions tiny memory cards used in mobile.	We can, of course, record music directly onto the memory card, but few card readers know how to deal with them, given the tiny dimensions of memory cards used in mobile.
+STS2016.input	postediting	0.0	We advise you on how to make a choice.	Conseillera, how you choose
+STS2016.input	postediting	5.0	"The septuagenarian McCain has repeatedly put forward his indisputable experience in foreign policy, while emphasising the ""naiveness"" of his opponent in these matters that were at the heart of this first contest."	"The septuag naire McCain has repeatedly put forward its indisputable experience in foreign policy, while emphasising the ""naive"" of his opponent on these issues that were at the heart of this first contest."
+STS2016.input	postediting	4.0	You will achieve nothing, because in sleeping, he is not sufficiently aware to organize his thoughts.	You will achieve nothing, because in sleeping, it is not aware to hold his thinking.
+STS2016.input	postediting	5.0	The boxeur Rocky Graziano, delinquant, tormented, violent, unforgettable in Somebody Up there Likes Me (marked by hatred), or Robert Wise, a role intended for James Dean, resumed after his death, which really launched Newman in 1956.	This boxeur Rocky Graziano, offender, tormented, violent, unforgettable in Somebody Up there Likes Dr (marked by hatred), Robert Wise, a role for James Dean, resumed after his death, which launched really Newman in 1956.
+STS2016.input	postediting	3.0	The song is ensured by Kater ina Kne z nkov  and Adam Plachetka.	The song is performed by Kater ina Kne z nkov  and Adam Plachetka.
+STS2016.input	postediting	5.0	They desperately need this, indeed, and I shows you an example.	They desperately need this, and I show you an example.
+STS2016.input	postediting	3.0	For many, the main advantage of mobile phones that play music is their prices.	For many, the main advantage of mobile music is their prices.
+STS2016.input	postediting	4.0	Sudanese soldiers had done this Sunday six of the kidnappers in the border area between Sudan, Chad and Egypt, and had arrested two of them.	Sudanese soldiers had killed six of the kidnappers this Sunday in the border area between Sudan, Chad and Egypt, and had arrested two of them.
+STS2016.input	postediting	3.0	Shortly after, the witness, who initially had not recognised the actress saw Locklear stop in the middle of the motorway and get out of her car.	Shortly after, the witness, who initially had not recognised the actress has given that Locklear has been arrested in the middle of the motorway and is out of his vehicle.
+STS2016.input	postediting	2.0	The cinema of the 1950s and 1960s we dazzles and we let much for our collections.	The cinema of the 1950s and 1960s fascinates us and much of our work is inspired by it.
+STS2016.input	postediting	1.0	"""I have changed, I do not want to take risk""."	"""However, once I have the impression that this is a job at risk, I supprimerai."
+STS2016.input	postediting	5.0	We do not have to look too far to find examples.	We do not have to go look too far to find examples.
+STS2016.input	postediting	3.0	But the Illhousiens goal scorer was not able to enjoy his happiness long and was be forced to return to the changing rooms a dozen minutes later and leaving his team mates with one man less.	But the buteur Illhousiens will not be able to enjoy his happiness long and will be forced to return to the changing rooms a dozen minutes later and leaving its co quipiers in digital inferiority.
+STS2016.input	postediting	2.0	It is better for this way, as they will still need their strength.	It is better for example, they will still need forces.
+STS2016.input	postediting	3.0	You are what you divulge about yourself.	You are what you divulgues subject to tone
+STS2016.input	postediting	4.0	The right-wing camp is intact, it is only inside the party that voters have become more aware, more critical and more stubborn.	The right-wing camp is intact, only party that voters have become more aware, more critical and more stubborn.
+STS2016.input	postediting	3.0	Microsoft is seeking a virtual (see)	Microsoft is seeking a receptionist (virtual)
+STS2016.input	postediting	1.0	The other research - The University of California, Berkeley, claims also to be researching in a new adhesive.	The other RECHERCHE- The University of California, Berkeley, and it also, in the search for a new removed.
+STS2016.input	postediting	2.0	The Thai authorities stopped him at passport control, and in the end, he went to Hong Kong.	The authorities Tha  the bloqu rent the passport control, and in the end, it out Hong Kong.
+STS2016.input	postediting	5.0	The experts say a technology still in its infancy, from the fact that the marine energy dispelling fears about the environmental impact.	The experts say that it is a technology still in its infancy, from the fact that marine energy does not dispel fears about its environmental impact.
+STS2016.input	postediting	4.0	The public is waiting for the time, without really hiding it, when Google will reveal its true nature.	The public expects, without really is in hiding, when Google will reveal its true nature.
+STS2016.input	postediting	4.0	The price of crude oil fell by 7 percent to $99.80 a barrel. The New York Mercantile Exchange during sales this morning.	The futures of crude oil, fell by 7 percent to $99.80 a barrel. The New York Mercantile Exchange, in sales of this morning.
+STS2016.input	postediting	2.0	The wrong time to spoil the rat of Pozoblanco	Bad weather spoils the fair at Pozoblanco
+STS2016.input	postediting	1.0	. People signs indicate the street.	. No signs indicate the street.
+STS2016.input	postediting	3.0	Not in front, because that way we create a block, and not all the yellow caps on the same benches, we must distribute them in the hall! '	Not before, otherwise it blocks, and not all the yellow caps on the same benches, we must distribute them in the Chamber! '
+STS2016.input	postediting	1.0	The stock exchange of Warsaw made a proposal to buy the stock exchange of Prague	The cause of this exclusion is that the stock exchange of Warsaw is owned by the state.
+STS2016.input	postediting	1.0	The supercolle to walk on the walls.	Superglue to walk on the walls.
+STS2016.input	postediting	5.0	To support the sector, one would need between 16 and 18 million per year.	To support the sector, it should be between 16 and 18 million per year.
+STS2016.input	postediting	0.0	But before the course begins, it was for me to appear.	For me, it was clear that I had to be travel a day.
+STS2016.input	postediting	3.0	In short - But victorious of Kovalev	In short - victorious goal for Kovalev
+STS2016.input	postediting	3.0	Now that the election in Parliament of the Land of Bavaria fell, a union of BayernLB with the bank from Baden-Wuttenberg could be taken first.	Now that the election in Parliament of the Land of Bavaria is over, a union of BayernLB with the bank from Baden-Wuttenberg could be seen very soon.
+STS2016.input	postediting	0.0	This is what we think will bring in more customers.	It is better for this way, as they will still need their strength.
+STS2016.input	postediting	3.0	"With a camera and a system of recognition of forms and faces, this ""see"" can know how many people in the place, which they are - including remember what they occupy positions - and listen and hear the keywords of their conversations."	"With a camera and a system of recognizing forms and faces, this ""receptionist"" can know how many people are in the place, who they are - what posts they occupy - and listen and hear the keywords of their conversations."
+STS2016.input	postediting	4.0	This is the second weekend of the beer festival, known as the 'weekend of Italians'.	The second weekend of the beer festival is also known as the weekend of Italy.
+STS2016.input	postediting	2.0	Since its creation, on 28 September 1998, H ma-Quebec has applied the precautionary principle.	"This episode has shown that the precautionary principle that has been applied, made sense. """
+STS2016.input	postediting	5.0	The directorate of the Polish football league PZPN has been suspended by the National Olympic Committee after many scandals and replaced by Robert Zawlocki, an independent administrator.	The direction of the Polish football league PZPN has been suspended by the National Olympic Committee after many scandals and replaced by Robert Zawlocki, administrator independent.
+STS2016.input	postediting	4.0	Vodafone heads rather its attention on the performance of the requests for its own 3G licences.	Vodafone heads rather its attention on obtaining its own 3G licences.
+STS2016.input	postediting	1.0	But given the attitude of mobile operators that are, the indifference of the Czech regulators is disconcerting.	The problem is that trade of all mobile operators Czech prohibit such a resale.
+STS2016.input	postediting	1.0	None of the Czech operators has a dominant position on such a market.	The problem is that trade of all mobile operators Czech prohibit such a resale.
+STS2016.input	postediting	0.0	"Especially as it is relatively saturated from the point of view of the provision of services. """	"According Masi, ""the choice of rotating doors is important even from a symbolic point of view."""
+STS2016.input	postediting	4.0	The psychology of one-upmanship: Why are we spending more money?	The psychology of one-upmanship: Why are spending more money?
+STS2016.input	postediting	0.0	The installation in all the institutions of the Presidency of the Council is now complete with the Palais Chigi.	The celebration of the Second crucial time for the Improvement of Record of the Equipe.
+STS2016.input	postediting	4.0	They launched a watermelons of their car '.	They launched a watermelon from their car '.
+STS2016.input	postediting	0.0	The answer is simple, there is a lack of competition.	A formulated answer like this is not suprising, coming from the representative of the operators.
+STS2016.input	postediting	1.0	We have already led the negotiations about that possibility several times with all the Czech mobile operators.	The problem is that trade of all mobile operators Czech prohibit such a resale.
+STS2016.input	postediting	5.0	The fourth world aircraft manufacturer, Embraer, maintains its forecast for 2008 with 215 aircraft deliveries left, reaffirmed Fredrico Fleury Curado, its chairman.	The fourth largest world aircraft manufacturer, Embraer, maintains its forecast for 2008 with 215 aircraft deliveries, re-affirmed Fredrico Fleury Curado, its chairman.
+STS2016.input	postediting	3.0	When energy gives birth to waves, big ones moves.	When energy is born waves, now the big moves.
+STS2016.input	postediting	1.0	They have not been that according to the opposition.	If Members of the opposition are in parliament is that they have been appointed, not elected.
+STS2016.input	postediting	0.0	The price of the production of paper, the activities of the print edition and have not changed.	The choice of mode of use and requirements of the future owner.
+STS2016.input	postediting	2.0	People say that Naomi is a person with a warm heart.	People that Naomi is a person central aim.
+STS2016.input	postediting	3.0	But what a great long distance athlete.	But what great athlete of substance.
+STS2016.input	postediting	3.0	What does it mean?	But what does that mean for the emotions?
+STS2016.input	postediting	2.0	Behemoths in the attack.	Colossus to the attack.
+STS2016.input	postediting	2.0	Other operators also refer to the specific nature of the Czech market.	None of the Czech operators did of a dominant position on such a market.
+STS2016.input	postediting	3.0	HSV beat Gladbach 1: 0	HSV fighting Gladbach 1: 0
+STS2016.input	postediting	5.0	The new law also seeks to limit the so-called golden parachutes for the managers of companies participating in the programme and it will establish a committee, which will ensure the supervision of the funds.	The new law also provides to limit the so-called golden parachutes for the managers of companies participating in the programme and it establishes a committee, which will ensure the supervision of the funds.
+STS2016.input	postediting	4.0	The driver control the validity of the voucher registered.	That's how the driver tests the validity of the registered voucher.
+STS2016.input	postediting	4.0	Therefore ordered interceptions against Dal Torrione, the entry write, is  merg e 'willingness to marry the requirements of a businessman, representing a group known, close to the Piromalli, unifying the choice of the public administration to the interests of the clan.	"Starting with the interceptions ordered against Dal Torrione, the pm writes, ""the possibility of marrying the demans of a businessman, representative a well known group close to the Piromalli, unifying the choice of the public administration with the interests of the clan."
+STS2016.input	postediting	1.0	I believe that yes, but in the end it joined and these activities have a lot in common.	But in this case, we can at least hope that all human brain have the same situation.
+STS2016.input	postediting	2.0	The government has provided  14 billion to protect the deposits of 2.6 million savers of Bradford & Bingleys.	The loan of  14 billion will be repaid when mortgages of Bradford & Bingleys are released.
+STS2016.input	postediting	3.0	In their experiment, three groups bid against a partner, in different circumstances.	At them, three groups surench rissaient with a partner, in different circumstances.
+STS2016.input	postediting	1.0	So many other Paul Newman have gone to history.	"Paul Newman was one of them. """
+STS2016.input	postediting	1.0	In the first half of 2008, the night flights and hotels were less expensive than the previous year.	Also in terms of price of flights, the trend was on the rise in the first quarter.
+STS2016.input	postediting	3.0	The board of AIG met Sunday evening to examine possible cessions, according to FT.	The board of AIG met Sunday in the evening to examine possible, according to stop it said.
+STS2016.input	postediting	0.0	The future is perhaps promising.	Obama has said that he is the future.
+STS2016.input	postediting	0.0	Readers, however, have the advantage of having an order easy.	MP3 players, however, have the advantage of having easy controls.
+STS2016.input	postediting	4.0	"That is the timetable set by the Capitol for the work of the Commission for the future of Rome"" which took place this morning at the new headquarters, behind the Thermes of Caracalla."	"That is the timetable set by the Capitol for the work of the Commission for the future of Rome ""Capital, which took place this morning, the new headquarters, behind the baths of Caracalla."
+STS2016.input	postediting	5.0	When at the end of the war, he was captured by the British and placed in the court to capture of the region Holstein, dozens of Germans were the Czech consult to their learns Czech.	When at the end of the war, he was captured by the British and placed in the prisoner of war camps of the region Holstein, dozens of Germans approached him to learn Czech.
+STS2016.input	postediting	2.0	It was the best that could mark the jets at a time.	It was the highest Jets score in one game.
+STS2016.input	postediting	0.0	The answer is simple, there is a lack of competition.	However, in view of the dynamics and unpredictability of the crisis, there is no certainty.
+STS2016.input	postediting	4.0	Special prosecutor, Nora Dannehy now will inquire to know whether the officers lied to their interrogators, hence obstructing justice, during their investigation.	The accuser Advisor, Nora Dannehy now will be whether the officers asked during the investigation, lied to investigators, obstruant and justice.
+STS2016.input	postediting	2.0	The high court of Truro has stated that he regularly bound his step-daughter, St phanie Randle, during her childhood, when she was between 5 and 7 years old.	The high court of Truro has referred he linked regularly its beautiful daughter, St phanie Randle, during his childhood, 5 to 7 years.
+STS2016.input	postediting	5.0	The circumstances around a shooting before the release of the hostages are still unclear: Well, the kidnappers were close to put an end to the kidnapping, in the words of an Egyptian security official, before the Sudanese army killed six of the kidnappers without shout station.	The circumstances surrounding a shooting before the release of the hostages are still unclear: the kidnappers were close to putting an end to the kidnapping, before the Sudanese army killed six of the kidnappers without warning, according to an Egyptian security official.
+STS2016.input	postediting	0.0	However, I do not think so.	But I do not know how the show.
+STS2016.input	postediting	5.0	What matters most is consumer awareness and making this information open to the public domain.	What matters most consumer awareness and make this information to public domain.
+STS2016.input	postediting	4.0	The Hypo Real Estate should now pay interest on the fraction to what it would have law.	The Hypo Real Estate must from now on pay interest on a fraction to what it has the right.
+STS2016.input	postediting	2.0	It could participate in the Beijing games because of a hypothetical poorly on the back, but he promised to win in Berlin, improving its third marathon, his personal record of nearly five minutes.	She could not participate in the Beijing games because of a hypothetical pain in the back, but promised to win in Berlin, improving her personal record by nearly five minutes in her third marathon.
+STS2016.input	postediting	1.0	Least ten five hours of the morning.	Nine fifty five in the morning.
+STS2016.input	postediting	0.0	The interpretation of the dominant market position is one of the many points of contention.	It was the biggest loss of points in the space of a day of history.
+STS2016.input	postediting	0.0	It was the biggest loss of points in the space of a day in history.	"""The first day of course in Japan."
+STS2016.input	postediting	2.0	You can listen to the four new versions on the server iHNed.cz.	Listen to the four new version of the national anthem.
+STS2016.input	postediting	3.0	Obama has said that he is the future.	Obama has said that it was the future.
+STS2016.input	postediting	4.0	"The reason for this striptease of thought is the relations of the press towards Ryan's new film ""The Women"" - which tells the story of an adulterer."	"The reason for this striptease of thought is the press relations Ryan for his new film ""The Women '- is told the story of a adultery."
+STS2016.input	postediting	3.0	Much to Eatonville, as Ms Jones, a teacher courageous and which has a low for the red lively, have always fear that their insular community is understood.	Many at Eatonville, like Ms Jones, a courageous teacher who has a weakness for bright red, always fear that their insular community will not be understood.
+STS2016.input	postediting	4.0	The sale price manufacturers to export rose by 1.1 percent compared to those of July 2008, as compared to those of a year ago, they fell by 3.9 percent.	The industrial export sale price rose by 1.1 percent compared to July 2008, while if compared to those of a year ago, it fell by 3.9 percent.
+STS2016.input	postediting	2.0	Later, the Dow Jones was a little overtaken.	Later, Dow Jones recovered a little.
+STS2016.input	postediting	0.0	This, the representatives of the  OHS must very well know, but their interests are apparently elsewhere.	The course of the obligations, however, are going particularly well.
+STS2016.input	postediting	2.0	Reni rent legislators and supports the call to the project of President George Bush.	US President George Bush himself is glad of progress in the negotiations.
+STS2016.input	postediting	0.0	However, I do not think so.	"""However, once I have the impression that this is a risky job, I will remove it."
+STS2016.input	postediting	4.0	These drinks, consumed especially the summer because d salt rantes and rich in vitamins, if associated with some vital medicines, to alter the popular absorbement or reducing in the case, their effectiveness, with the same serious consequences for health.	These drinks, consumed especially the summer because they are refreshing and rich in vitamins, if taken with some vital medicines, can alter their effectiveness, absorbing or reducing according to cases, with serious consequences to the health.
+STS2016.input	postediting	4.0	Tuesday, at the beginning of trade, the stock exchange of Prague renoua with his downfall of the day before, when it lost almost six percent.	Tuesday, with the start of trade, the stock exchange of Prague continued with its downfall of the day before, when it lost almost six percent.
+STS2016.input	postediting	3.0	We have seen many its binette allowed to grace the vinaigrette pots, sauces, biscuits and other foods, judging the process of poor taste, albeit joke at the outset.	We have seen his face on vinaigrette pots, sauces, biscuits and other foods, which tasted rather awful, albeit a joke at the outset.
+STS2016.input	postediting	4.0	"While no result had yet been announced, many young people came to demonstrate against the power of President Alexander Lukashenko: ""The dictator, resign""."	"While no result had not yet been announced, many young people were came to demonstrate against the power of President Alexander Lukashenko: ""The dictator, resignation""."
+STS2016.input	postediting	2.0	None of the Czech operators did of a dominant position on such a market.	The problem is that trade of all mobile operators Czech prohibit such a resale.
+STS2016.input	postediting	0.0	The question, if it is really a matter of chance, pops up naturally.	"""However, once I have the impression that this is a risky job, I will remove it."
+STS2016.input	postediting	0.0	The price of the production of paper, the activities of the print edition and have not changed.	The celebration of the Second crucial time for the Improvement of Record of the Equipe.
+STS2016.input	postediting	4.0	This was repeated during the three years in the elections of the Bundestag of 2005, i.e. at the time of the much-discussed Stoiber.	This has said there are three years in the elections of the Bundestag of 2005, i.e. at the time of the much-discussed Stoiber.
+STS2016.input	postediting	2.0	Later, the other two houses no longer does not rejoign rent.	Later, the other two houses fell at odds as well.
+STS2016.input	postediting	1.0	On the contrary, the mobile operators like to complain that the Czech market is extremely concurrenciez.	But given the attitude of mobile operators, the indifference of the Czech regulators is disconcerting.
+STS2016.input	postediting	0.0	The work has just started, and there is still much to do in the two countries'.	Most of the time, I have no idea what I eat exactly here in Japan.
+STS2016.input	postediting	1.0	Other operators would also refer to the nature of the Czech market.	None of the Czech operators has a dominant position on such a market.
+STS2016.input	postediting	0.0	"""We know how to take a step back,"" said Marcell Jansen."	"""I didn't go out of my area"" Favre said about all his passes to Coles."
+STS2016.input	postediting	0.0	The course of the obligations, however, are particularly well.	However, in view of the dynamics and unpredictability of the crisis, there is no certainty.
+STS2016.input	postediting	4.0	"Sooner or later it will eventually a fatal accident, ""he said, there is a years, Ty den.cz."	"Sooner or later it will eventually a fatal accident,"" he said, a year ago, to Ty den.cz."
+STS2016.input	postediting	4.0	This should particularly bring nights of insomnia to long term creditors on the decision of whether they should secede from their commitments or not.	This should reserve of the night of sleep before all creditors in the long term on the decision of whether they should secede from their commitments.
+STS2016.input	postediting	0.0	No, not Mr, I am Spanish but I have lived here thinking two years.	Most of the time, I have no idea what I eat exactly here in Japan.
+STS2016.input	postediting	5.0	The cap wage is not mentioned in any specificity: the limitations depend on how the secretariat of the Treasury offers its aid to the company.	The cap wage is not mentioned in the specific case, the limitations depend on how the secretariat the Treasury suggests its aid to the company.
+STS2016.input	postediting	5.0	Today, Eatonville is an anomaly in Florida: To six miles of Orlando, it can at any time see themselves as a back street after a summer rainy day, small as it was when it was founded by 27 black families in the 1880's.	Today, Eatonville is an anomaly in Florida: Six miles from Orlando, it can at any time see itself as a back street after a summer rainy day, small as it was when it was founded by 27 black families in the 1880's.
+STS2016.input	postediting	3.0	But pay attention, the Belgian brand does not make only tank tops.	But attention, because the Belgian brand does not only that the tank tops.
+STS2016.input	postediting	1.0	"""I have changed, I do not want to take risk""."	"""However, once I have the impression that this is a risky job, I will remove it."
+STS2016.input	postediting	1.0	The future is perhaps promising.	But of course this is the future.
+STS2016.input	postediting	4.0	Without egos ultimate amount of quality.	With little ego, the ultimate show of quality.
+STS2016.input	postediting	5.0	We have four versions - one each with solo male or female voices, an interpretation with choir and an instrumental version.	We have four versions - with a song solo male or female, an interpretation with choir and an instrumental version.
+STS2016.input	postediting	4.0	"The larger editorial houses are working their way to the Internet, seen by many as the ""murderer"" of the paper newspaper."	"The larger houses  ditrices work their way to the Internet, seen by many as the ""murderer"" the paper newspaper."
+STS2016.input	postediting	0.0	This, the representatives of the  OHS must very well know, but their interests are apparently elsewhere.	The course of the obligations, however, are particularly well.
+STS2016.input	postediting	3.0	"To refer, indeed, ""we need a sketch of strategic reference, or firm or stand still, to allow our city, to improve, which it has absolutely necessary, while thinking about its future now a spirit of unity,""."	"According to Alemanno, indeed, ""we need a sketch of strategic reference, neither firm nor immobile, to allow our city to improve, which is absolutely necessary, while thinking about its future in a spirit of unity,""."
+STS2016.input	postediting	2.0	For many, the main advantage of mobile phones that play music is their prices.	In the case of mobile cheap, do they will play music for a few hours.
+STS2016.input	postediting	4.0	The community has begun to hold a festival in honour of Hurston to demonstrate the catastrophic consequences that the motorway would have created.	The community has begun to hold a festival Hurston to demonstrate the catastrophic consequences that would create the motorway.
+STS2016.input	postediting	1.0	Other operators would also refer to the nature of the Czech market.	None of the Czech operators did of a dominant position on such a market.
+STS2016.input	postediting	5.0	"The campaign by Mr Obama stresses that 'students African-American and Latin have less chance of dipl mer white students. ""This is true."	"The campaign by Mr Obama stresses that ""African-American and Latin students have less chance of granduating than white students."" This is true."
+STS2016.input	postediting	0.0	In the end, read the mangas, that is what I prefer already for years.	"""However, once I have the impression that this is a job at risk, I supprimerai."
+STS2016.input	postediting	2.0	On Saturday evening, representatives of legislators met the US Treasury Secretary Henry Paulson, in order to give a final form to the government fund.	Of Saturday evening, representatives of legislators rencontr rent the US Treasury Secretary Henry Paulson, in order to give the bottom of the government a final form.
+STS2016.input	postediting	1.0	This means that companies will have to find  81 million to settle the interests of the first year.	The Treasury estimates that the interests of the loan will in 2009, to  450millions.
+STS2016.input	postediting	5.0	To place the blame on the C T  is a fairly common in communications, through which the  OHS is washing his hands of the matter.	To place the blame on the C T  is a fairly common trick in communications, through which the  OHS is washing its hands of the matter.
+STS2016.input	postediting	0.0	For me, it was clear that I had to travel there some day.	"""However, once I have the impression that this is a risky job, I will remove it."
+STS2016.input	postediting	1.0	Well the four achievements of the new version of the national anthem.	The anthem has again been recorded by the orchestra of the theatre national under the direction of Jir  Be lohl vek.
+STS2016.input	postediting	4.0	Of course, there is an analysis of relevant markets drawn up by the C T  that telecommunications are, from the point of view of economic competition, a single market.	Of course, there is an analysis of relevant markets drawn up by the C T  according to which the telecommunications are, from the point of view of economic competition, a single market.
+STS2016.input	postediting	0.0	The choice of operators is unfortunately miserable and is limited, in most cases, to radio tubes.	The answer is simple, there is a lack of competition, which would like to join the fight.
+STS2016.input	postediting	2.0	The Czech market is in comparison with other very specific.	Other operators also refer to the specific nature of the Czech market.
+STS2016.input	postediting	1.0	Despite this, Iraq has been, for the most part, the weakness of Bush.	Anyway, despite all these arguments, the winning card for the democrats is George Bush.
+STS2016.input	postediting	1.0	However, in view of the dynamics and unpredictability of the crisis, there is no certainty.	At the same time, in Europe, we had further proof of the global nature of the crisis.
+STS2016.input	postediting	3.0	She asked me to go up for a cause if noble, but if it had asked to make the poirier, I would have done anyway.	She asked me to go up for a noble cause, but if she had asked to act the pear tree, I would have done it anyway.
+STS2016.input	postediting	0.0	They have not been that according to the opposition.	The fact is that dividends have been cut.
+STS2016.input	postediting	2.0	Elena attack by Luca, then the embraces.	Elena, Luca and others come together, Marco makes a last speech and explains the plan of attack.
+STS2016.input	postediting	5.0	We are facing a government that is the only, of all the Western countries involved, not to have brought back its national trapped in the concentration camp at Guant namo.	We have here a government that is the only one, of all the Western countries involved, not to have brought back its nationals trapped in the concentration camp at Guant namo.
+STS2016.input	postediting	2.0	On trade terms, the stock exchange of Prague fell	After the fall of Tuesday morning, the stock exchange of Prague r ctifia its losses.
+STS2016.input	postediting	3.0	Well the four achievements of the new version of the national anthem.	The new Czech anthem four new versions.
+STS2016.input	postediting	5.0	With the show of strength of fishermen who have severely disrupted Monday the access of several ports in Brittany and Normandy, the President of the Republic has decided to go on Tuesday morning at the port of Guilvinec, in the Finisterre, to meet their representatives.	With the show in strength of fishermen who have severely disrupted the access of several ports on Monday in Brittany and Normandy, the President of the Republic has decided to go on Tuesday morning to the port of Guilvinec, in Finisterre, to meet their representatives.
+STS2016.input	postediting	0.0	In the MDAX, the actions of Arcandor fell after the announcement of an increase in the capital.	In Rome, Alemanno gave the order to make the Commission for the future of the capital leave.
+STS2016.input	postediting	1.0	"I am pleased to have a wonderful family who will at best ""."	"I am pleased because she has agreed to play a role in my work and I am honoured ""."
+STS2016.input	postediting	5.0	The detainee, A. A. J. of 28 years, has been in custody for achieving the various steps and will be judged in the next few hours.	The detainee, A. A. J. aged 28 years, has been in custody for committing the various crimes and will be judged in the next few hours.
+STS2016.input	postediting	1.0	Other operators also refer to the specific nature of the Czech market.	On the contrary, the mobile operators like to complain that the Czech market is extremely concurrenciez.
+STS2016.input	postediting	2.0	The stock exchange of Warsaw made a proposal to buy the stock exchange of Prague	At the end of trade, the stock exchange of Prague bascula in the negative
+STS2016.input	postediting	3.0	The driver of the coach tried to avoid it by swerving hard, but still grazed the right side of the lorry.	The driver of the last to try to avoid it through a sudden move, but he fell short by his right side.
+STS2016.input	postediting	0.0	The work has just started, and there is still much to do in the two countries'.	And perhaps we continue to call more expensive than in the rest of Europe.
+STS2016.input	postediting	1.0	Elena attack by Luca, then the embraces.	To Elena, this is the first time, Luca already the third or fourth time.
+STS2016.input	postediting	0.0	"In Masi, ""the choice of rotating doors is important to a symbolic point of view."	"Especially as it is relatively saturated from the point of view of the offer of services. """
+STS2016.input	postediting	2.0	His step-daughter left for Plymouth.	Its beautiful daughter out Plymouth.
+STS2016.input	postediting	4.0	Tourists kidnapped in Egypt are free	The European tourists kidnapped in the Sahara are visibly free.
+STS2016.input	postediting	1.0	This, the representatives of the  OHS must very well know, but their interests are apparently the other.	On both sides, there were, of course, those who have expressed their doubts about the plan.
+STS2016.input	postediting	5.0	The police began their continued until the vehicle stops two miles up the low-hand, where the two occupants took to flee in a forested area.	The police began their chase until the vehicle stopped two miles up the road, where the two occupants got down to flee into a forested area.
+STS2016.input	postediting	4.0	The Nobel Prize for economy has been awarded to the American Paul Krugman for his research on trade models and localisation of business.	The Nobel Prize for the economy has been attributed to the American Paul Krugman for his research on the models of trade and the location of business.
+STS2016.input	postediting	0.0	The price of the production of paper, the activities of the print edition and have not changed.	At the same time, in Europe, we had further proof of the global nature of the crisis.
+STS2016.input	postediting	1.0	The stock exchange of Warsaw made a proposal to buy the stock exchange of Prague	On trade terms, the stock exchange of Prague fell
+STS2016.input	postediting	1.0	The PCA (format used by the company and its Apple iPods taken from them), meanwhile, is less course.	AAC (the format used by Apple and its iPods), meanwhile, is less current.
+STS2016.input	postediting	0.0	The work has just started, and there is still much to do in the two countries'.	In the end, read the mangas, that is what I prefer already for years.
+STS2016.input	question-question	4.0	How do I make a height adjustable desk?	How can I build a wall mounted adjustable height desk?
+STS2016.input	question-question	4.0	How can I find out why my washing machine trips the outlet?	How can I figure out why my washing machine is tripping the GFCI receptacle?
+STS2016.input	question-question	5.0	Should I use IRA money to pay down my student loans?	Should I cash out my IRA to pay my student loans?
+STS2016.input	question-question	0.0	What is the best way to repair a cracked bathtub?	What is the best way to fix this garage floor?
+STS2016.input	question-question	0.0	What's the best way to store asparagus?	What's the best way to store unused sushi rice?
+STS2016.input	question-question	4.0	What are the bus (coach) connections from Thessaloniki, Greece to Tbilisi, Georgia?	Is there a bus from Tbilisi, Georgia to Thessaloniki, Greece?
+STS2016.input	question-question	2.0	How can I replace a ceiling fan light pull chain?	How can I replace my light fixture with a ceiling fan?
+STS2016.input	question-question	3.0	How can I connect additional wires to a receptacle?	How do I connect the wires to this USB receptacle?
+STS2016.input	question-question	0.0	What kind of socket is this?	What type of faucet is this?
+STS2016.input	question-question	0.0	What is the difference between a stock and a bond?	What is the difference between a mode and a scale?
+STS2016.input	question-question	2.0	How do I maintain a good relationship with my old boss after being promoted?	How do I maintain a good relationship with an employer after resigning?
+STS2016.input	question-question	5.0	How do I keep an egg from cracking while being boiled?	How do I prevent an egg cracking while hard boiling it?
+STS2016.input	question-question	3.0	How can I prepare this old exterior wall for painting?	How do I prepare this porous interior wall for paint?
+STS2016.input	question-question	3.0	Why is there no water in the kitchen?	Why is there no hot water in the kitchen?
+STS2016.input	question-question	3.0	What more can I do to improve my credit score?	Can I pay a collection agency in a way that will improve my credit score?
+STS2016.input	question-question	4.0	How do I track investment performance in Quicken across rollovers?	How do I track 401k rollovers in Quicken?
+STS2016.input	question-question	2.0	Can I ask a company what I should wear to an interview?	What should I ask as an applicant in a job interview?
+STS2016.input	question-question	5.0	How do you remove mold from a tent?	How do I remove mildew from a tent?
+STS2016.input	question-question	2.0	U.S. income tax & charitable donations: How much is income tax reduced by donations?	UK income tax & charitable donations: How much is income tax reduced by donations?
+STS2016.input	question-question	3.0	Bar ware - What kind of glass is this?	What kind of glass is this?
+STS2016.input	question-question	1.0	Would a Colombian citizen with Canadian residency need a transit visa for the UK?	Will I Need a Transit visa or ESTA for the US as a Canadian?
+STS2016.input	question-question	4.0	Do I need to apply for a UK transit visa when I have a visitor visa?	Do I need a UK airside transit visa, if I already have a UK visitor visa?
+STS2016.input	question-question	1.0	Is it possible to replace a switch with a receptacle?	Is it safe to replace a switch with a dimmer on halogen spots?
+STS2016.input	question-question	3.0	Do I really need a redundant sump pump?	Do I need to install a sump pump?
+STS2016.input	question-question	4.0	Layover at Narita for 3 hours. Do i need a transit visa?	Layover at Narita, Japan. Do I need a transit visa?
+STS2016.input	question-question	2.0	Can I connect two load lines to a GFCI receptacle?	How can I connect additional wires to a receptacle?
+STS2016.input	question-question	3.0	How can I work out how valuable I am to my boss and company?	How can I convince my boss I am the right person to lead a future team?
+STS2016.input	question-question	2.0	How do I replace a broken halogen bulb in the recessed light in my bathroom?	How can I replace the bulb in this ceiling fan?
+STS2016.input	question-question	3.0	Do I need to apply for ESTA?	Flying from California to Texas: do I need ESTA?
+STS2016.input	question-question	2.0	How should I patch a popcorn ceiling?	Should I replace or patch a plaster ceiling?
+STS2016.input	question-question	2.0	What do I do if a professor at a foreign university doesn't respond to my emails?	What should I do if a professor says she doesn't understand my questions in office hours?
+STS2016.input	question-question	2.0	How can I keep my dog from barking when I don't know what he's barking at?	How do I stop my dog from barking at people through the fence?
+STS2016.input	question-question	2.0	Travelling to Romania for 4 days by Schengen visa issued by Germany?	Travelling to Romania on a short stay Schengen visa issued by France?
+STS2016.input	question-question	4.0	Is it ok to apply for more than one Phd student program?	Is it advisable to apply to more than one PhD program?
+STS2016.input	question-question	2.0	What is the professional way to follow up with a manager for project opportunity?	What is the professional way to deal with my manager's boss?
+STS2016.input	question-question	0.0	What is the best way to toast pecans?	What is the best way to introduce cats to newborns?
+STS2016.input	question-question	0.0	What is the best way to repair a cracked bathtub?	What is the best way to clean a grater?
+STS2016.input	question-question	1.0	What is the best way to store fresh berries?	What is the best way to store chopped vegetables?
+STS2016.input	question-question	1.0	What is the best way to store fresh berries?	What is the best way to store carrots?
+STS2016.input	question-question	0.0	What is the best way to store fresh berries?	What is the best way to cite an anonymous writer?
+STS2016.input	question-question	4.0	How do I remove paint from a wood floor?	How can I remove small paint specks from a wooden floor?
+STS2016.input	question-question	2.0	Why is compensation so much higher in the US than in Western Europe on average?	Why is interest on MMA lower in the US than in Europe?
+STS2016.input	question-question	5.0	What could be wrong with my air conditioner?	What could be wrong with my A/C unit?
+STS2016.input	question-question	2.0	What is the significance of the cat?	What is the significance of the abstract painting?
+STS2016.input	question-question	3.0	Should I let potential employers know I have a job offer?	Should I tell my boss I have a full time job offer?
+STS2016.input	question-question	3.0	How do I repair water-damaged hardwood floors?	How can I repair my floors' finish?
+STS2016.input	question-question	2.0	What could be causing water pressure to build up after changing my under sink filter?	What could be causing water to back up into my bathroom basin?
+STS2016.input	question-question	0.0	Where can I find a good vocabulary list?	Where can I find a complete list of Freddie Green chords?
+STS2016.input	question-question	3.0	Glue underlayment to concrete: how long does it take to cure?	How long should it take concrete to fully cure?
+STS2016.input	question-question	4.0	Does this beginning hook the reader?	Does my story beginning hook the reader? (dialogue + narration)?
+STS2016.input	question-question	4.0	How can I remove a really stuck screw?	How can I remove this screw?
+STS2016.input	question-question	3.0	Is it better to request a recommendation letter in person after class or by email?	Is it appropriate to ask a professor via e-mail for a letter of recommendation?
+STS2016.input	question-question	2.0	What can I eat the night before to help me get up in the morning?	What trigger do you use to get up early in the morning?
+STS2016.input	question-question	3.0	I have a Schengen visa but my UAE Residence visa cancelled. Can I still travel then?	Can I travel to the UK if my Schengen visa expired?
+STS2016.input	question-question	4.0	What could be causing my GFCI to trip?	What could be causing GFCI breakers and receptacles to trip?
+STS2016.input	question-question	2.0	How do I convert a ceiling fan with 2 separate wall switches to a separate fan & light switch?	How do I wire 2 switches to control a ceiling light?
+STS2016.input	question-question	1.0	How long does cooked TVP keep in the fridge?	How long will uncooked chicken keep in the fridge?
+STS2016.input	question-question	4.0	How can I get my colleagues to stop interrupting me?	How can I get my colleague to stop calling me over to his desk when he wants my help?
+STS2016.input	question-question	0.0	What is the difference between assertive and non-assertive words?	What is the difference between portamento and glissando?
+STS2016.input	question-question	2.0	After a job interview, is it inappropriate if I want to talk to an employee in private?	When (if ever) in the interview process is it appropriate to recommend a colleague?
+STS2016.input	question-question	0.0	What if I don't have enough work sample for an interview?	What should I do if I have an idea but can't work on it immediately?
+STS2016.input	question-question	2.0	How do you remove paint from hair?	How do I remove paint from pipes?
+STS2016.input	question-question	2.0	Is my U.S. driver's license valid in Europe?	Is Greek driver's license valid in the US?
+STS2016.input	question-question	0.0	What is the best way to store fresh berries?	What is the best way to filter the Turkish coffee?
+STS2016.input	question-question	2.0	Is it safe to leave butter at room temperature?	How do I know if food left at room temperature is still safe to eat?
+STS2016.input	question-question	2.0	How do I remove paint from a wood floor?	How do I remove a thick layer of paint from tiles?
+STS2016.input	question-question	3.0	How do I remove paint from a wood floor?	How can I remove paint from a deck?
+STS2016.input	question-question	1.0	How do I remove paint from a wood floor?	How do I remove paint from pipes?
+STS2016.input	question-question	4.0	how to blackout a large bedroom window on a budget?	How can I thoroughly blackout a bedroom window on a budget?
+STS2016.input	question-question	5.0	What language does this look like?	What is this language?
+STS2016.input	question-question	4.0	What type of pants are good for weight lifting?	What is good workout attire for weight lifting?
+STS2016.input	question-question	0.0	What is the best way to clean your clothes dryer exhaust?	What is the best way to clean a grater?
+STS2016.input	question-question	5.0	What more can I do to improve my credit score?	What can I realistically do to raise my credit score?
+STS2016.input	question-question	1.0	How can I remove a really stuck screw?	How can I remove paint from slotted screw heads?
+STS2016.input	question-question	2.0	What causes these chips in a cement brick wall, and how can I fix them?	What are these holes in my concrete wall and how can I mount things to them?
+STS2016.input	question-question	2.0	What could be causing my toilet to back up?	What could be causing water to back up into my bathroom basin?
+STS2016.input	question-question	4.0	What is the difference between a Rollover IRA and a Roth IRA?	"What are the differences between a ""traditional"" IRA and a Roth IRA?"
+STS2016.input	question-question	4.0	How to deal with the child when both the parents are not on the same page?	How to deal with the toddler when me and my partner are not on the same page?
+STS2016.input	question-question	1.0	How do I reconnect a ceiling fan light chain?	How do I wire a replacement ceiling fan?
+STS2016.input	question-question	4.0	How do I pump up water pressure in my shower?	How can I fix low water pressure in one shower?
+STS2016.input	question-question	4.0	Greek type D visa: Can I travel to other Schengen countries?	Can I go to visit Schengen countries with visa type D-mult?
+STS2016.input	question-question	1.0	How should I store eggs in the refrigerator?	How long can I store cooked rice in the refrigerator?
+STS2016.input	question-question	4.0	What can I do about out of square rough opening for new windows?	What can I do about a Rough opening that is REALLY out of square?
+STS2016.input	question-question	1.0	What's the best way to store potatoes and maximize their shelf-life?	What's the best way to store asparagus?
+STS2016.input	question-question	2.0	How to bake a chicken?	How to truss a chicken?
+STS2016.input	question-question	0.0	What is the best way to treat feline ringworm?	What is the best way to clean a grater?
+STS2016.input	question-question	2.0	What kind of spider web is this - and how do I get rid of it?	What are these bugs and how do I get rid of them?
+STS2016.input	question-question	0.0	What's the best way to seal around this faucet?	What's the best way to store asparagus?
+STS2016.input	question-question	4.0	How to remove construction adhesive from concrete?	How do I remove adhesive from outdoor concrete deck that is textured?
+STS2016.input	question-question	0.0	What is the difference between a stock and a bond?	What is the difference between a riff and a lick?
+STS2016.input	question-question	1.0	How do I teach my toddler to chew his food?	How do you teach a toddler not to share?
+STS2016.input	question-question	2.0	What goes in a student success statement for a faculty application?	What is a good length for the statement of purpose in a U.S. PhD application?
+STS2016.input	question-question	0.0	What is the difference between shawarma and gyros?	what is the difference between Erebor and Moria?
+STS2016.input	question-question	4.0	Must I enter Europe with Schengen visa from the country where I applied?	If I have Schengen visa, can I enter Schengen area from different country?
+STS2016.input	question-question	4.0	What could be causing my toilet to back up?	What could be causing my bathroom drains to back up?
+STS2016.input	question-question	3.0	How to apply for a Schengen visa?	How should I apply for a Schengen visa from the UK?
+STS2016.input	question-question	0.0	What is the best way to apply Shellac-based primer?	What is the best way to clean a grater?
+STS2016.input	question-question	2.0	How do I make soft chapattis?	How to make chapattis round and of same thickness?
+STS2016.input	question-question	2.0	How should you respond to your teacher who cannot help you with a recommendation?	How should you deal with a teacher who is difficult to understand?
+STS2016.input	question-question	1.0	How can I replace a ceiling fan light pull chain?	How can I replace a ceiling fan with a regular light fixture?
+STS2016.input	question-question	2.0	What should I do with my credit card debt?	What should my credit limit be?
+STS2016.input	question-question	0.0	What's the best way to store asparagus?	What's the best way to keep my garage from freezing?
+STS2016.input	question-question	0.0	What is the difference between a filler word and a discourse marker?	What is the difference between a copula and a transitive verb?
+STS2016.input	question-question	2.0	What's the best way to run a wire from inside my garage to the outside?	What's the best/easiest way to install and wire a wall light?
+STS2016.input	question-question	1.0	How can I repair my two sloping concrete slabs?	How can I repair my floors' finish?
+STS2016.input	question-question	3.0	Why is my furnace blowing hot air outside through a PVC pipe?	Why is my furnace blowing hot air outside?
+STS2016.input	question-question	1.0	Where can I find a good vocabulary list?	Where can I find a good online thesaurus?
+STS2016.input	question-question	4.0	Why is my dryer taking longer to dry clothes?	Why does it take my dryer 3 hours to dry a load of clothes?
+STS2016.input	question-question	2.0	How do I stop my dog from jumping on me?	How do I stop my dog from barking when I bring him outside?
+STS2016.input	question-question	0.0	What is this vocal technique called?	What is this stucco-like finish called?
+STS2016.input	question-question	1.0	How can I repair my floors' finish?	How can I repair a leaking shower?
+STS2016.input	question-question	4.0	What are some good strength exercises for marathon runners?	What are some good strength training routines for runners?
+STS2016.input	question-question	0.0	What kind of socket is this?	What kind of bug is this?
+STS2016.input	question-question	1.0	How do I secure an old aluminum/glass sliding door?	How do I measure a standard sliding glass door?
+STS2016.input	question-question	0.0	What is the best way to toast pecans?	What is the best way to start learning a new course?
+STS2016.input	question-question	1.0	How can I stop this Shower faucet leak?	How do I remove this shower fixture?
+STS2016.input	question-question	0.0	What is the actual difference between Graduate and Undergraduate texts?	What is the difference between portamento and glissando?
+STS2016.input	question-question	2.0	Should I tell prospective employer that I got a raise at my current job?	How do I bring up that I got a better job offer to my new current employer?
+STS2016.input	question-question	3.0	Do I need to replace my hot water tank's pressure release valve?	Do I need to replace this water pressure valve?
+STS2016.input	question-question	2.0	How to judge the quality of my own paper?	How can I assess the quality of a paper outside my field?
+STS2016.input	question-question	4.0	Which way does the air flow through my furnace?	Which way does air flow into a furnace?
+STS2016.input	question-question	0.0	What is the difference between EFTA and the EU?	what is the difference between Erebor and Moria?
+STS2016.input	question-question	4.0	Why is my washing machine making this sound?	What is this sound from my washing machine?
+STS2016.input	question-question	3.0	How can I stop my cat's playful yet aggressive behavior?	Is my cat's aggressive behavior playful or mean, and how do I stop it?
+STS2016.input	question-question	4.0	How do I convert a ceiling fan with 2 separate wall switches to a separate fan & light switch?	How can I add a new light fixture off of a ceiling fan wired to two switches?
+STS2016.input	question-question	0.0	What is the best way to store fresh berries?	What is the best way to fix this garage floor?
+STS2016.input	question-question	1.0	How do I remove paint from a wood floor?	How do I remove paint from a porous table top?
+STS2016.input	question-question	4.0	How can I repair a towel bar with one end ripped out of the wall?	How can I repair a towel rack that was ripped out of the wall?
+STS2016.input	question-question	0.0	What is the difference between a stock and a bond?	What is the difference between chicken cubes and ground chicken?
+STS2016.input	question-question	5.0	How to remove a ticks on my dog?	How to remove a tick on a dog?
+STS2016.input	question-question	4.0	How can I remove a really stuck screw?	How can I remove a stuck screw that will still turn?
+STS2016.input	question-question	3.0	Which reward / benefits credit card is the best value for the money in Canada?	Which reward/benefits card is the best value for money in Australia?
+STS2016.input	question-question	2.0	Is it a bad writing practice to start sentences with a verb?	Paper Title, Is it better to start with a verb?
+STS2016.input	question-question	3.0	What is this vocal technique called?	What is this technique called?
+STS2016.input	question-question	4.0	What are refereed and non-refereed journals?	What are the differences between Peer Reviewed Journals and Refereed Journals?
+STS2016.input	question-question	5.0	How do I pump up water pressure in my shower?	How can I improve the water pressure in my shower?
+STS2016.input	question-question	2.0	Schengen visa for UK citizen?	How to apply for a Schengen visa?
+STS2016.input	question-question	0.0	What is the best way to toast pecans?	What's the best way to store asparagus?
+STS2016.input	question-question	2.0	What can I eat the night before to help me get up in the morning?	What foods can I eat to keep my energy up in an office job in the afternoon?
+STS2016.input	question-question	2.0	What could be wrong with my furnace?	What could be wrong with my air conditioner?
+STS2016.input	question-question	0.0	What kind of socket is this?	What type of asbestos is this?
+STS2016.input	question-question	0.0	"What does the term ""Out of the Furnace"" refer to?"	"What does the ""to"" mean in the General Welfare Clause?"
+STS2016.input	question-question	4.0	How can I prepare this old exterior wall for painting?	How do I prepare this exterior concrete wall for paint?
+STS2016.input	question-question	1.0	Which part of the GRE is more important to admissions committees?	Why do admissions committees consider the Statement of Purpose to be important?
+STS2016.input	question-question	2.0	How do you teach a toddler not to share?	How do you teach a child religious views?
+STS2016.input	question-question	0.0	"What was the meaning of ""21 grams""?"	"What is the meaning of ""$N industry""?"
+STS2016.input	question-question	0.0	What is the difference between shawarma and gyros?	What is the difference between portamento and glissando?
+STS2016.input	question-question	3.0	What is the significance of the cat?	What is the significance of the missing elevator car?
+STS2016.input	question-question	3.0	How long is the life of a shot of espresso?	What is the optimal length of time for pulling a shot of espresso?
+STS2016.input	question-question	2.0	What is the best way to learn finger-picking on an acoustic guitar?	What is the best way to learn to play a piece on the guitar?
+STS2016.input	question-question	3.0	How can I get rid of fleas?	How can I get rid of fleas in my crawlspace forever?
+STS2016.input	question-question	5.0	Is it possible to do a Master's in Mathematics after a Bachelor's in Economics?	Can I get a Master's in Economics with a Bachelor's in Mathematics?
+STS2016.input	question-question	3.0	Should I switch to third person or continue in first person?	Should I write my biography in the first or third person?
+STS2016.input	question-question	2.0	How do I troubleshoot my electric oven?	How do I troubleshoot an electric furnace?
+STS2016.input	question-question	3.0	How can I tell whether a mathematics journal seems reputable?	How can I tell if a journal is reputable?
+STS2016.input	question-question	1.0	Is there a way to find out if I need a transit visa for a layover in the UK?	I have a Layover in Japan, Going to stayfor a month, Do I need a Transit Visa?
+STS2016.input	question-question	5.0	How can I help my dog adjust to a move?	How do I help my dog adjust after moving?
+STS2016.input	question-question	1.0	How long does cooked TVP keep in the fridge?	How long does uncooked meat last when kept in the freezer?
+STS2016.input	question-question	1.0	Is it appropriate to call a professor for a recommendation on the weekend?	Is it appropriate to send a gift to a professor for an online course?
+STS2016.input	question-question	5.0	How do I pump up water pressure in my shower?	How can I boost the water pressure in my shower?
+STS2016.input	question-question	0.0	What is the significance of the cat?	What is the significance of the artwork?
+STS2016.input	question-question	4.0	What can I do to fix store-bought mayonnaise that split?	How do I make mayonnaise split?
+STS2016.input	question-question	3.0	How can I stop my pie from burning?	How can I safely re-heat a chicken pie without burning the crust?
+STS2016.input	question-question	1.0	How can I work out how valuable I am to my boss and company?	How to tell my company that I am having issues with my boss?
+STS2016.input	question-question	1.0	Why do you need to peel peaches to can them?	How to peel peaches?
+STS2016.input	question-question	1.0	How do I increase the height of a sliding glass door lock?	How do I measure a standard sliding glass door?
+STS2016.input	question-question	1.0	"What does it mean by a ""research university""?"	"What does ""university ranking"" mean for a graduate admissions committee?"
+STS2016.input	question-question	1.0	How do I clean a very dirty refrigerator?	How do I clean a Hammerite paint brush?
+STS2016.input	question-question	2.0	How to apply for a Schengen visa?	Is it possible to get a Schengen visa for future date?
+STS2016.input	question-question	3.0	How do I replace a broken halogen bulb in the recessed light in my bathroom?	How to replace recessed halogen light from an eyeball fixture?
+STS2016.input	question-question	4.0	Should I negotiate if I'm offered more than what I initially asked for?	I was offered the minimum salary I requested, should I ask for more?
+STS2016.input	question-question	2.0	How can I be sure my water softener is working?	How can I determine what is in my water?
+STS2016.input	question-question	1.0	How do I wire a bathroom exhaust fan/light to two switches?	How do I wire a combo with two supplies?
+STS2016.input	question-question	3.0	Is it acceptable as referee to contact an author on a paper you review?	Is it appropriate as a referee to contact an author after the editor rejected the manuscript?
+STS2016.input	question-question	0.0	What kind of spider web is this - and how do I get rid of it?	What kind of board is this, and where can I get some?
+STS2016.input	question-question	1.0	How should I cite a screenshot in APA style for my student paper?	How should I cite StackOverflow questions in my term paper?
+STS2016.input	question-question	3.0	What is a good solo to learn in the Dorian mode?	What is a good guitar solo to learn in the minor scale?
+STS2016.input	question-question	2.0	How do I cap a T junction on a roof ridge?	How do I finish a ridge cap?
+STS2016.input	question-question	1.0	How do you teach a toddler not to share?	How do you get a child to eat?
+STS2016.input	question-question	1.0	Why doesn't my cat lick me?	Why doesn't my cat like being held?
+STS2016.input	question-question	2.0	How do I stop my dog from jumping on me?	How do I stop my dog from barking at people through the fence?
+STS2016.input	question-question	2.0	How to make a strong mug of filter coffee without any Coffee machine?	How to make a strong mug of instant Coffee?
+STS2016.input	question-question	1.0	How do I repair this broken pipe?	How do I level a pipe with the ground?
+STS2016.input	question-question	2.0	What are the types of Guitar available and what are the pros and cons of each?	What are the advantages and disadvantages of various methods of supporting the classical guitar?
+STS2016.input	question-question	1.0	What type of lag bolts should I use for a deck?	What type of screws should I use?
+STS2016.input	question-question	1.0	How do I paint art onto a wall?	How do I make this paint match?
+STS2016.input	question-question	1.0	What's the best way to introduce a chinchilla to a household with cats?	What is the best way to introduce cats to newborns?
+STS2016.input	question-question	0.0	What's the best way to store potatoes and maximize their shelf-life?	What is the best way to store fresh berries?
+STS2016.input	question-question	2.0	How do I fix a hole/gap between my shower tile and the dry wall next to it?	How do I patch a gap between my bathtub and wall?
+STS2016.input	question-question	1.0	What is the best way to store fresh berries?	What is the best way to store ground coffee?
+STS2016.input	question-question	4.0	What does this tablature notation mean?	What does this notation mean?
+STS2016.input	question-question	3.0	How can I get rid of fleas?	How do I get rid of fleas on my rabbit?
+STS2016.input	question-question	3.0	How can I add a GFCI receptacle on a circuit with split receptacles?	How can I add a GFCI breaker on two circuits with a shared neutral without rewiring?
+STS2016.input	question-question	1.0	What does it mean to write a song in a certain key?	Is it possible to write a song without a key?
+STS2016.input	question-question	2.0	What is a good solo to learn in the Dorian mode?	What is a good solo to learn in the major scale?
+STS2016.input	question-question	4.0	Why isn't the switch working to turn off my ceiling lamp after I replaced a fan w/light?	Why does my ceiling fan turn off when I turn on the lights?
+STS2016.input	question-question	1.0	How long should I wait between grout application and sealant?	How long should I wait for plaster to dry/cure between coats?
+STS2016.input	question-question	0.0	What is the difference between a stock and a bond?	What is the difference between a tortoise and a turtle?
+STS2016.input	question-question	2.0	How do I remove paint from a wood floor?	How to remove milk smell from hardwood floor?
+STS2016.input	question-question	3.0	How does Paying credit card in full VS paying with interest will affect your credit score?	Will paying off a credit card early affect my credit score?
+STS2016.input	question-question	0.0	What is the difference between mono and stereo?	What is the difference between balls in Test and ODI Cricket?
+STS2016.input	question-question	0.0	What is the best way to store my sleeping bag for long periods of time?	What's the best way to store asparagus?
+STS2016.input	question-question	1.0	How long can you keep chocolate in the freezer?	How long can I keep bread dough in the refrigerator?
+STS2016.input	question-question	3.0	Should I contact a PhD student or his supervisor for potential collaboration?	How should a PhD student approach a collaboration?
+STS2016.input	question-question	4.0	How to make good coffee in a Moka pot?	How to make more than one good cup of coffee with a moka pot?
+STS2016.input	question-question	1.0	How do I prepare this porous interior wall for paint?	How do I install a new interior partition wall?
+STS2016.input	question-question	4.0	What could be causing my GFCI to trip?	What could be causing my GFCI outlet to trip?
+STS2016.input	question-question	1.0	How do I prepare this porous interior wall for paint?	How do I make this paint match?
+STS2016.input	question-question	4.0	What could be wrong with my furnace?	What is wrong with my gas furnace?
